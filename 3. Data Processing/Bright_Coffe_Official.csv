@@ -1,0 +1,1001 @@
+transaction_id,transaction_date,Year,Quarter_Name,Month_Number,Month_Name,Week_Number,Day_Number,Day_Name,Week_Type,Time_of_Transaction,Time_Buckets,Hour,Minute,transaction_qty,Order_Size,store_id,store_location,product_id,unit_price,unit_price_clean,total_amount,Spending_Level,product_category,product_type,product_category,product_detail
+1,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,07:06:11,Dawn,7,6,2,Small Order,5,Lower Manhattan,32,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+2,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,07:08:56,Dawn,7,8,2,Small Order,5,Lower Manhattan,57,"3,1",3.10,6.20,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Lg
+3,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,07:14:04,Dawn,7,14,2,Small Order,5,Lower Manhattan,59,"4,5",4.50,9.00,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Lg
+4,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,07:20:24,Dawn,7,20,1,Single,5,Lower Manhattan,22,2,2.00,2.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+5,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,07:22:41,Dawn,7,22,2,Small Order,5,Lower Manhattan,57,"3,1",3.10,6.20,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Lg
+6,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,07:22:41,Dawn,7,22,1,Single,5,Lower Manhattan,77,3,3.00,3.00,Low,Bakery,Scone,Drinks/Food,Oatmeal Scone
+7,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,07:25:49,Dawn,7,25,1,Single,5,Lower Manhattan,22,2,2.00,2.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+8,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,07:33:34,Dawn,7,33,2,Small Order,5,Lower Manhattan,28,2,2.00,4.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+9,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,07:39:13,Dawn,7,39,1,Single,5,Lower Manhattan,39,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+10,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,07:39:34,Dawn,7,39,2,Small Order,5,Lower Manhattan,58,"3,5",3.50,7.00,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Rg
+11,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,07:43:05,Dawn,7,43,1,Single,5,Lower Manhattan,56,"2,55",2.55,2.55,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+12,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,07:44:35,Dawn,7,44,2,Small Order,5,Lower Manhattan,33,"3,5",3.50,7.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Lg
+13,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,07:45:51,Dawn,7,45,1,Single,5,Lower Manhattan,51,3,3.00,3.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Lg
+14,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,07:48:19,Dawn,7,48,1,Single,5,Lower Manhattan,57,"3,1",3.10,3.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Lg
+15,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,07:52:36,Dawn,7,52,2,Small Order,5,Lower Manhattan,87,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Ouro Brasileiro shot
+16,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,07:59:58,Dawn,7,59,2,Small Order,5,Lower Manhattan,47,3,3.00,6.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+17,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,07:59:58,Dawn,7,59,1,Single,5,Lower Manhattan,79,"3,75",3.75,3.75,Low,Bakery,Scone,Drinks/Food,Jumbo Savory Scone
+18,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:00:18,Dawn,8,0,1,Single,8,Hell's Kitchen,42,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+19,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:00:39,Dawn,8,0,2,Small Order,8,Hell's Kitchen,59,"4,5",4.50,9.00,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Lg
+20,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:11:45,Dawn,8,11,1,Single,8,Hell's Kitchen,61,"4,75",4.75,4.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+21,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:17:27,Dawn,8,17,2,Small Order,8,Hell's Kitchen,33,"3,5",3.50,7.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Lg
+22,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:24:26,Dawn,8,24,2,Small Order,5,Lower Manhattan,56,"2,55",2.55,5.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+23,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:24:26,Dawn,8,24,1,Single,5,Lower Manhattan,69,"3,25",3.25,3.25,Low,Bakery,Biscotti,Drinks/Food,Hazelnut Biscotti
+24,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:29:38,Dawn,8,29,1,Single,8,Hell's Kitchen,56,"2,55",2.55,2.55,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+25,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:31:23,Dawn,8,31,1,Single,8,Hell's Kitchen,40,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+26,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:33:08,Dawn,8,33,1,Single,5,Lower Manhattan,43,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+27,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:33:08,Dawn,8,33,1,Single,5,Lower Manhattan,76,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Chocolate Chip Biscotti
+28,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:35:03,Dawn,8,35,2,Small Order,5,Lower Manhattan,45,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Lg
+29,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:35:03,Dawn,8,35,1,Single,5,Lower Manhattan,71,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Chocolate Croissant
+30,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:41:57,Dawn,8,41,2,Small Order,8,Hell's Kitchen,40,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+31,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:52:03,Dawn,8,52,1,Single,8,Hell's Kitchen,38,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+32,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:52:32,Dawn,8,52,1,Single,5,Lower Manhattan,26,3,3.00,3.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+33,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:54:33,Dawn,8,54,2,Small Order,5,Lower Manhattan,27,"3,5",3.50,7.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+34,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:56:27,Dawn,8,56,2,Small Order,5,Lower Manhattan,29,"2,5",2.50,5.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Rg
+35,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:57:46,Dawn,8,57,1,Single,8,Hell's Kitchen,54,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+36,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,08:58:55,Dawn,8,58,1,Single,5,Lower Manhattan,26,3,3.00,3.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+37,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:00:12,Dawn,9,0,1,Single,5,Lower Manhattan,55,4,4.00,4.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+38,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:00:24,Dawn,9,0,2,Small Order,8,Hell's Kitchen,40,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+39,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:07:13,Dawn,9,7,1,Single,8,Hell's Kitchen,45,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Lg
+40,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:08:09,Dawn,9,8,2,Small Order,8,Hell's Kitchen,45,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Lg
+41,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:08:13,Dawn,9,8,1,Single,8,Hell's Kitchen,24,3,3.00,3.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+42,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:10:30,Dawn,9,10,2,Small Order,5,Lower Manhattan,60,"3,75",3.75,7.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+43,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:10:30,Dawn,9,10,1,Single,5,Lower Manhattan,78,"4,5",4.50,4.50,Low,Bakery,Scone,Drinks/Food,Scottish Cream Scone 
+44,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:11:06,Dawn,9,11,1,Single,5,Lower Manhattan,56,"2,55",2.55,2.55,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+45,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:11:06,Dawn,9,11,1,Single,5,Lower Manhattan,77,3,3.00,3.00,Low,Bakery,Scone,Drinks/Food,Oatmeal Scone
+46,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:13:01,Dawn,9,13,1,Single,5,Lower Manhattan,44,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+47,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:13:15,Dawn,9,13,2,Small Order,5,Lower Manhattan,56,"2,55",2.55,5.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+48,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:14:16,Dawn,9,14,1,Single,5,Lower Manhattan,48,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+49,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:14:17,Dawn,9,14,1,Single,8,Hell's Kitchen,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+50,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:14:25,Dawn,9,14,1,Single,8,Hell's Kitchen,46,"2,5",2.50,2.50,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+51,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:14:41,Dawn,9,14,1,Single,8,Hell's Kitchen,32,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+52,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:15:09,Dawn,9,15,2,Small Order,5,Lower Manhattan,47,3,3.00,6.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+53,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:15:13,Dawn,9,15,2,Small Order,5,Lower Manhattan,43,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+54,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:19:21,Dawn,9,19,2,Small Order,5,Lower Manhattan,25,"2,2",2.20,4.40,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+55,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:19:26,Dawn,9,19,1,Single,8,Hell's Kitchen,59,"4,5",4.50,4.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Lg
+56,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:21:08,Dawn,9,21,1,Single,5,Lower Manhattan,38,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+57,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:22:17,Dawn,9,22,1,Single,8,Hell's Kitchen,45,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Lg
+58,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:22:46,Dawn,9,22,1,Single,5,Lower Manhattan,34,"2,45",2.45,2.45,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+59,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:29:56,Dawn,9,29,2,Small Order,8,Hell's Kitchen,36,"3,75",3.75,7.50,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+60,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:29:56,Dawn,9,29,1,Single,8,Hell's Kitchen,74,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Ginger Biscotti
+61,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:29:57,Dawn,9,29,1,Single,8,Hell's Kitchen,53,3,3.00,3.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+62,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:34:17,Dawn,9,34,2,Small Order,8,Hell's Kitchen,41,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+63,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:40:13,Dawn,9,40,1,Single,5,Lower Manhattan,41,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+64,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:41:22,Dawn,9,41,2,Small Order,5,Lower Manhattan,45,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Lg
+65,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:41:22,Dawn,9,41,1,Single,5,Lower Manhattan,79,"3,75",3.75,3.75,Low,Bakery,Scone,Drinks/Food,Jumbo Savory Scone
+66,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:44:20,Dawn,9,44,2,Small Order,5,Lower Manhattan,54,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+67,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:44:46,Dawn,9,44,1,Single,5,Lower Manhattan,24,3,3.00,3.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+68,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:46:46,Dawn,9,46,2,Small Order,5,Lower Manhattan,37,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Espresso shot
+69,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:47:40,Dawn,9,47,2,Small Order,8,Hell's Kitchen,40,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+70,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:50:44,Dawn,9,50,2,Small Order,5,Lower Manhattan,37,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Espresso shot
+71,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:50:44,Dawn,9,50,1,Single,5,Lower Manhattan,69,"3,25",3.25,3.25,Low,Bakery,Biscotti,Drinks/Food,Hazelnut Biscotti
+72,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:52:58,Dawn,9,52,1,Single,5,Lower Manhattan,50,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+73,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:53:28,Dawn,9,53,1,Single,8,Hell's Kitchen,47,3,3.00,3.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+74,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:53:44,Dawn,9,53,2,Small Order,8,Hell's Kitchen,40,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+75,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:53:44,Dawn,9,53,1,Single,8,Hell's Kitchen,72,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Ginger Scone
+76,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:53:49,Dawn,9,53,1,Single,8,Hell's Kitchen,35,"3,1",3.10,3.10,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+77,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:54:46,Dawn,9,54,1,Single,5,Lower Manhattan,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+78,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:55:16,Dawn,9,55,2,Small Order,5,Lower Manhattan,43,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+79,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,09:56:30,Dawn,9,56,1,Single,8,Hell's Kitchen,22,2,2.00,2.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+80,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:00:39,Dawn,10,0,2,Small Order,8,Hell's Kitchen,32,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+81,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:03:55,Dawn,10,3,2,Small Order,8,Hell's Kitchen,36,"3,75",3.75,7.50,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+82,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:14:49,Dawn,10,14,1,Single,5,Lower Manhattan,26,3,3.00,3.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+83,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:14:49,Dawn,10,14,1,Single,5,Lower Manhattan,71,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Chocolate Croissant
+84,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:16:30,Dawn,10,16,2,Small Order,5,Lower Manhattan,32,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+85,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:16:33,Dawn,10,16,1,Single,8,Hell's Kitchen,54,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+86,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:18:14,Dawn,10,18,2,Small Order,8,Hell's Kitchen,41,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+87,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:18:52,Dawn,10,18,2,Small Order,5,Lower Manhattan,25,"2,2",2.20,4.40,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+88,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:19:42,Dawn,10,19,2,Small Order,5,Lower Manhattan,23,"2,5",2.50,5.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+89,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:24:19,Dawn,10,24,1,Single,8,Hell's Kitchen,54,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+90,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:25:22,Dawn,10,25,2,Small Order,8,Hell's Kitchen,56,"2,55",2.55,5.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+91,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:25:45,Dawn,10,25,2,Small Order,5,Lower Manhattan,58,"3,5",3.50,7.00,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Rg
+92,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:25:45,Dawn,10,25,1,Single,5,Lower Manhattan,74,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Ginger Biscotti
+93,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:27:48,Dawn,10,27,2,Small Order,8,Hell's Kitchen,47,3,3.00,6.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+94,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:30:07,Dawn,10,30,1,Single,5,Lower Manhattan,35,"3,1",3.10,3.10,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+95,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:30:07,Dawn,10,30,1,Single,5,Lower Manhattan,70,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Cranberry Scone
+96,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:35:47,Dawn,10,35,1,Single,8,Hell's Kitchen,60,"3,75",3.75,3.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+97,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:41:53,Dawn,10,41,1,Single,5,Lower Manhattan,59,"4,5",4.50,4.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Lg
+98,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:47:53,Dawn,10,47,2,Small Order,5,Lower Manhattan,36,"3,75",3.75,7.50,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+99,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:49:13,Dawn,10,49,2,Small Order,8,Hell's Kitchen,51,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Lg
+100,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:49:51,Dawn,10,49,2,Small Order,5,Lower Manhattan,61,"4,75",4.75,9.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+101,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:51:17,Dawn,10,51,1,Single,5,Lower Manhattan,47,3,3.00,3.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+102,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:52:44,Dawn,10,52,2,Small Order,8,Hell's Kitchen,23,"2,5",2.50,5.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+103,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:52:44,Dawn,10,52,1,Single,8,Hell's Kitchen,73,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Almond Croissant
+104,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:56:14,Dawn,10,56,1,Single,5,Lower Manhattan,38,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+105,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,10:56:14,Dawn,10,56,1,Single,5,Lower Manhattan,76,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Chocolate Chip Biscotti
+106,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:01:48,Dawn,11,1,1,Single,3,Astoria,22,2,2.00,2.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+107,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:01:58,Dawn,11,1,1,Single,3,Astoria,38,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+108,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:01:58,Dawn,11,1,1,Single,3,Astoria,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+109,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:03:25,Dawn,11,3,2,Small Order,5,Lower Manhattan,47,3,3.00,6.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+110,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:03:25,Dawn,11,3,1,Single,5,Lower Manhattan,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+111,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:04:32,Dawn,11,4,2,Small Order,8,Hell's Kitchen,39,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+112,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:08:11,Dawn,11,8,1,Single,3,Astoria,59,"4,5",4.50,4.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Lg
+113,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:08:59,Dawn,11,8,2,Small Order,8,Hell's Kitchen,51,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Lg
+114,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:09:01,Dawn,11,9,1,Single,3,Astoria,59,"4,5",4.50,4.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Lg
+115,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:10:21,Dawn,11,10,1,Single,3,Astoria,47,3,3.00,3.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+116,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:10:21,Dawn,11,10,1,Single,3,Astoria,79,"3,75",3.75,3.75,Low,Bakery,Scone,Drinks/Food,Jumbo Savory Scone
+117,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:10:58,Dawn,11,10,1,Single,3,Astoria,46,"2,5",2.50,2.50,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+118,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:12:29,Dawn,11,12,1,Single,3,Astoria,43,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+119,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:16:02,Dawn,11,16,2,Small Order,3,Astoria,45,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Lg
+120,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:21:00,Dawn,11,21,2,Small Order,8,Hell's Kitchen,54,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+121,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:21:04,Dawn,11,21,2,Small Order,5,Lower Manhattan,51,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Lg
+122,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:21:14,Dawn,11,21,1,Single,3,Astoria,60,"3,75",3.75,3.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+123,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:23:01,Dawn,11,23,1,Single,8,Hell's Kitchen,31,"2,2",2.20,2.20,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+124,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:23:43,Dawn,11,23,2,Small Order,5,Lower Manhattan,60,"3,75",3.75,7.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+125,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:23:43,Dawn,11,23,1,Single,5,Lower Manhattan,77,3,3.00,3.00,Low,Bakery,Scone,Drinks/Food,Oatmeal Scone
+126,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:25:35,Dawn,11,25,2,Small Order,3,Astoria,49,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+127,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:25:37,Dawn,11,25,2,Small Order,5,Lower Manhattan,40,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+128,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:28:15,Dawn,11,28,2,Small Order,8,Hell's Kitchen,44,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+129,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:28:29,Dawn,11,28,2,Small Order,3,Astoria,33,"3,5",3.50,7.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Lg
+130,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:29:25,Dawn,11,29,2,Small Order,5,Lower Manhattan,56,"2,55",2.55,5.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+131,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:29:57,Dawn,11,29,2,Small Order,8,Hell's Kitchen,35,"3,1",3.10,6.20,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+132,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:29:57,Dawn,11,29,1,Single,8,Hell's Kitchen,78,"4,5",4.50,4.50,Low,Bakery,Scone,Drinks/Food,Scottish Cream Scone 
+133,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:30:22,Dawn,11,30,1,Single,8,Hell's Kitchen,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+134,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:31:35,Dawn,11,31,1,Single,8,Hell's Kitchen,24,3,3.00,3.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+135,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:31:43,Dawn,11,31,2,Small Order,5,Lower Manhattan,51,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Lg
+136,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:31:43,Dawn,11,31,1,Single,5,Lower Manhattan,72,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Ginger Scone
+137,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:31:53,Dawn,11,31,2,Small Order,5,Lower Manhattan,54,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+138,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:31:53,Dawn,11,31,1,Single,5,Lower Manhattan,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+139,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:39:14,Dawn,11,39,1,Single,5,Lower Manhattan,60,"3,75",3.75,3.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+140,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:39:14,Dawn,11,39,1,Single,5,Lower Manhattan,71,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Chocolate Croissant
+141,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:40:26,Dawn,11,40,2,Small Order,3,Astoria,52,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+142,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:43:57,Dawn,11,43,2,Small Order,3,Astoria,25,"2,2",2.20,4.40,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+143,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:44:09,Dawn,11,44,1,Single,5,Lower Manhattan,38,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+144,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:47:13,Dawn,11,47,1,Single,3,Astoria,30,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+145,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:48:56,Dawn,11,48,2,Small Order,8,Hell's Kitchen,50,"2,5",2.50,5.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+146,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:49:42,Dawn,11,49,1,Single,8,Hell's Kitchen,54,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+147,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:49:42,Dawn,11,49,1,Single,8,Hell's Kitchen,72,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Ginger Scone
+148,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:50:16,Dawn,11,50,2,Small Order,3,Astoria,26,3,3.00,6.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+149,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:50:23,Dawn,11,50,2,Small Order,3,Astoria,36,"3,75",3.75,7.50,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+150,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:50:58,Dawn,11,50,2,Small Order,5,Lower Manhattan,45,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Lg
+151,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:51:30,Dawn,11,51,2,Small Order,8,Hell's Kitchen,33,"3,5",3.50,7.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Lg
+152,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:52:31,Dawn,11,52,1,Single,5,Lower Manhattan,57,"3,1",3.10,3.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Lg
+153,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:57:17,Dawn,11,57,2,Small Order,3,Astoria,37,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Espresso shot
+154,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:57:59,Dawn,11,57,1,Single,3,Astoria,50,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+155,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:57:59,Dawn,11,57,1,Single,3,Astoria,79,"3,75",3.75,3.75,Low,Bakery,Scone,Drinks/Food,Jumbo Savory Scone
+156,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,11:58:15,Dawn,11,58,2,Small Order,3,Astoria,60,"3,75",3.75,7.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+157,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:00:20,Forenoon,12,0,1,Single,5,Lower Manhattan,29,"2,5",2.50,2.50,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Rg
+158,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:01:00,Forenoon,12,1,2,Small Order,3,Astoria,49,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+159,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:01:20,Forenoon,12,1,2,Small Order,3,Astoria,35,"3,1",3.10,6.20,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+160,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:01:20,Forenoon,12,1,1,Single,3,Astoria,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+161,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:03:09,Forenoon,12,3,1,Single,8,Hell's Kitchen,36,"3,75",3.75,3.75,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+162,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:03:38,Forenoon,12,3,1,Single,8,Hell's Kitchen,47,3,3.00,3.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+163,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:03:43,Forenoon,12,3,1,Single,3,Astoria,44,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+164,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:04:22,Forenoon,12,4,2,Small Order,8,Hell's Kitchen,27,"3,5",3.50,7.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+165,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:05:31,Forenoon,12,5,2,Small Order,3,Astoria,52,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+166,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:06:29,Forenoon,12,6,1,Single,5,Lower Manhattan,46,"2,5",2.50,2.50,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+167,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:07:42,Forenoon,12,7,1,Single,8,Hell's Kitchen,24,3,3.00,3.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+168,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:08:21,Forenoon,12,8,1,Single,5,Lower Manhattan,43,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+169,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:08:36,Forenoon,12,8,1,Single,8,Hell's Kitchen,35,"3,1",3.10,3.10,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+170,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:09:11,Forenoon,12,9,2,Small Order,3,Astoria,28,2,2.00,4.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+171,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:09:12,Forenoon,12,9,2,Small Order,8,Hell's Kitchen,50,"2,5",2.50,5.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+172,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:13:07,Forenoon,12,13,2,Small Order,5,Lower Manhattan,38,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+173,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:14:26,Forenoon,12,14,2,Small Order,8,Hell's Kitchen,35,"3,1",3.10,6.20,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+174,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:17:38,Forenoon,12,17,2,Small Order,8,Hell's Kitchen,50,"2,5",2.50,5.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+175,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:18:07,Forenoon,12,18,2,Small Order,5,Lower Manhattan,25,"2,2",2.20,4.40,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+176,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:18:44,Forenoon,12,18,2,Small Order,3,Astoria,49,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+177,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:20:16,Forenoon,12,20,2,Small Order,3,Astoria,60,"3,75",3.75,7.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+178,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:23:39,Forenoon,12,23,1,Single,3,Astoria,24,3,3.00,3.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+179,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:27:06,Forenoon,12,27,2,Small Order,5,Lower Manhattan,41,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+180,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:30:46,Forenoon,12,30,2,Small Order,3,Astoria,44,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+181,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:30:49,Forenoon,12,30,1,Single,8,Hell's Kitchen,38,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+182,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:33:20,Forenoon,12,33,2,Small Order,3,Astoria,54,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+183,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:33:35,Forenoon,12,33,2,Small Order,3,Astoria,29,"2,5",2.50,5.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Rg
+184,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:35:53,Forenoon,12,35,2,Small Order,5,Lower Manhattan,31,"2,2",2.20,4.40,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+185,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:36:57,Forenoon,12,36,1,Single,8,Hell's Kitchen,60,"3,75",3.75,3.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+186,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:38:28,Forenoon,12,38,2,Small Order,8,Hell's Kitchen,49,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+187,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:42:26,Forenoon,12,42,1,Single,3,Astoria,53,3,3.00,3.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+188,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:44:01,Forenoon,12,44,1,Single,8,Hell's Kitchen,60,"3,75",3.75,3.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+189,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:44:31,Forenoon,12,44,1,Single,3,Astoria,53,3,3.00,3.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+190,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:44:32,Forenoon,12,44,1,Single,3,Astoria,52,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+191,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:45:52,Forenoon,12,45,2,Small Order,3,Astoria,28,2,2.00,4.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+192,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:46:22,Forenoon,12,46,1,Single,3,Astoria,56,"2,55",2.55,2.55,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+193,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:46:26,Forenoon,12,46,1,Single,3,Astoria,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+194,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:46:55,Forenoon,12,46,1,Single,3,Astoria,33,"3,5",3.50,3.50,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Lg
+195,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:46:55,Forenoon,12,46,1,Single,3,Astoria,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+196,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:48:08,Forenoon,12,48,2,Small Order,3,Astoria,38,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+197,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:49:48,Forenoon,12,49,1,Single,8,Hell's Kitchen,30,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+198,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:50:15,Forenoon,12,50,1,Single,3,Astoria,59,"4,5",4.50,4.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Lg
+199,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:50:28,Forenoon,12,50,2,Small Order,3,Astoria,32,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+200,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:51:21,Forenoon,12,51,1,Single,8,Hell's Kitchen,53,3,3.00,3.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+201,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:51:57,Forenoon,12,51,1,Single,5,Lower Manhattan,61,"4,75",4.75,4.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+202,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:51:57,Forenoon,12,51,1,Single,5,Lower Manhattan,72,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Ginger Scone
+203,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:52:18,Forenoon,12,52,1,Single,5,Lower Manhattan,56,"2,55",2.55,2.55,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+204,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:52:18,Forenoon,12,52,1,Single,5,Lower Manhattan,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+205,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:53:11,Forenoon,12,53,2,Small Order,8,Hell's Kitchen,29,"2,5",2.50,5.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Rg
+206,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:53:59,Forenoon,12,53,1,Single,8,Hell's Kitchen,37,3,3.00,3.00,Low,Coffee,Barista Espresso,Drinks/Food,Espresso shot
+207,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:55:25,Forenoon,12,55,1,Single,3,Astoria,49,3,3.00,3.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+208,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:55:27,Forenoon,12,55,1,Single,5,Lower Manhattan,57,"3,1",3.10,3.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Lg
+209,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:55:27,Forenoon,12,55,1,Single,5,Lower Manhattan,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+210,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:55:36,Forenoon,12,55,1,Single,8,Hell's Kitchen,45,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Lg
+211,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:55:53,Forenoon,12,55,2,Small Order,8,Hell's Kitchen,26,3,3.00,6.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+212,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:56:33,Forenoon,12,56,1,Single,3,Astoria,61,"4,75",4.75,4.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+213,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:56:59,Forenoon,12,56,1,Single,3,Astoria,47,3,3.00,3.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+214,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:58:54,Forenoon,12,58,2,Small Order,3,Astoria,44,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+215,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,12:59:06,Forenoon,12,59,1,Single,8,Hell's Kitchen,36,"3,75",3.75,3.75,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+216,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:00:38,Forenoon,13,0,2,Small Order,5,Lower Manhattan,30,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+217,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:01:33,Forenoon,13,1,2,Small Order,5,Lower Manhattan,25,"2,2",2.20,4.40,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+218,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:02:40,Forenoon,13,2,1,Single,8,Hell's Kitchen,49,3,3.00,3.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+219,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:02:40,Forenoon,13,2,1,Single,8,Hell's Kitchen,78,"4,5",4.50,4.50,Low,Bakery,Scone,Drinks/Food,Scottish Cream Scone 
+220,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:02:52,Forenoon,13,2,1,Single,8,Hell's Kitchen,26,3,3.00,3.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+221,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:03:13,Forenoon,13,3,2,Small Order,3,Astoria,43,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+222,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:04:01,Forenoon,13,4,2,Small Order,8,Hell's Kitchen,25,"2,2",2.20,4.40,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+223,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:04:01,Forenoon,13,4,1,Single,8,Hell's Kitchen,72,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Ginger Scone
+224,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:04:22,Forenoon,13,4,2,Small Order,8,Hell's Kitchen,42,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+225,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:04:37,Forenoon,13,4,2,Small Order,8,Hell's Kitchen,54,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+226,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:04:51,Forenoon,13,4,1,Single,3,Astoria,22,2,2.00,2.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+227,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:05:56,Forenoon,13,5,1,Single,3,Astoria,58,"3,5",3.50,3.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Rg
+228,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:07:37,Forenoon,13,7,2,Small Order,5,Lower Manhattan,24,3,3.00,6.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+229,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:09:03,Forenoon,13,9,1,Single,3,Astoria,35,"3,1",3.10,3.10,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+230,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:12:03,Forenoon,13,12,2,Small Order,5,Lower Manhattan,30,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+231,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:13:09,Forenoon,13,13,1,Single,5,Lower Manhattan,60,"3,75",3.75,3.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+232,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:17:30,Forenoon,13,17,1,Single,8,Hell's Kitchen,56,"2,55",2.55,2.55,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+233,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:17:32,Forenoon,13,17,2,Small Order,3,Astoria,55,4,4.00,8.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+234,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:18:34,Forenoon,13,18,2,Small Order,8,Hell's Kitchen,49,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+235,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:19:09,Forenoon,13,19,1,Single,8,Hell's Kitchen,55,4,4.00,4.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+236,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:19:09,Forenoon,13,19,1,Single,8,Hell's Kitchen,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+237,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:19:36,Forenoon,13,19,1,Single,3,Astoria,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+238,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:19:56,Forenoon,13,19,2,Small Order,8,Hell's Kitchen,31,"2,2",2.20,4.40,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+239,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:20:51,Forenoon,13,20,2,Small Order,3,Astoria,35,"3,1",3.10,6.20,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+240,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:21:23,Forenoon,13,21,2,Small Order,3,Astoria,38,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+241,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:22:11,Forenoon,13,22,1,Single,5,Lower Manhattan,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+242,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:22:45,Forenoon,13,22,2,Small Order,3,Astoria,46,"2,5",2.50,5.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+243,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:23:54,Forenoon,13,23,2,Small Order,3,Astoria,58,"3,5",3.50,7.00,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Rg
+244,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:24:29,Forenoon,13,24,2,Small Order,5,Lower Manhattan,60,"3,75",3.75,7.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+245,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:30:49,Forenoon,13,30,2,Small Order,5,Lower Manhattan,31,"2,2",2.20,4.40,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+246,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:32:07,Forenoon,13,32,2,Small Order,5,Lower Manhattan,25,"2,2",2.20,4.40,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+247,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:32:34,Forenoon,13,32,1,Single,5,Lower Manhattan,87,3,3.00,3.00,Low,Coffee,Barista Espresso,Drinks/Food,Ouro Brasileiro shot
+248,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:34:12,Forenoon,13,34,2,Small Order,3,Astoria,28,2,2.00,4.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+249,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:38:09,Forenoon,13,38,1,Single,8,Hell's Kitchen,27,"3,5",3.50,3.50,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+250,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:38:11,Forenoon,13,38,2,Small Order,8,Hell's Kitchen,40,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+251,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:39:41,Forenoon,13,39,1,Single,5,Lower Manhattan,51,3,3.00,3.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Lg
+252,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:40:47,Forenoon,13,40,2,Small Order,3,Astoria,54,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+253,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:41:09,Forenoon,13,41,2,Small Order,3,Astoria,42,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+254,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:42:10,Forenoon,13,42,1,Single,3,Astoria,43,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+255,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:42:49,Forenoon,13,42,1,Single,5,Lower Manhattan,36,"3,75",3.75,3.75,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+256,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:42:58,Forenoon,13,42,1,Single,5,Lower Manhattan,52,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+257,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:42:58,Forenoon,13,42,1,Single,5,Lower Manhattan,72,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Ginger Scone
+258,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:43:18,Forenoon,13,43,2,Small Order,3,Astoria,54,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+259,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:43:18,Forenoon,13,43,1,Single,3,Astoria,69,"3,25",3.25,3.25,Low,Bakery,Biscotti,Drinks/Food,Hazelnut Biscotti
+260,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:43:41,Forenoon,13,43,2,Small Order,5,Lower Manhattan,25,"2,2",2.20,4.40,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+261,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:44:26,Forenoon,13,44,1,Single,3,Astoria,57,"3,1",3.10,3.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Lg
+262,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:47:51,Forenoon,13,47,1,Single,8,Hell's Kitchen,40,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+263,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:49:03,Forenoon,13,49,2,Small Order,8,Hell's Kitchen,22,2,2.00,4.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+264,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:50:09,Forenoon,13,50,1,Single,5,Lower Manhattan,53,3,3.00,3.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+265,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:50:47,Forenoon,13,50,2,Small Order,8,Hell's Kitchen,54,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+266,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:51:56,Forenoon,13,51,2,Small Order,8,Hell's Kitchen,32,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+267,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:53:04,Forenoon,13,53,2,Small Order,3,Astoria,38,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+268,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:53:31,Forenoon,13,53,1,Single,8,Hell's Kitchen,33,"3,5",3.50,3.50,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Lg
+269,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:54:18,Forenoon,13,54,2,Small Order,8,Hell's Kitchen,22,2,2.00,4.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+270,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:55:04,Forenoon,13,55,1,Single,5,Lower Manhattan,42,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+271,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:55:50,Forenoon,13,55,2,Small Order,8,Hell's Kitchen,45,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Lg
+272,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:56:15,Forenoon,13,56,2,Small Order,8,Hell's Kitchen,48,"2,5",2.50,5.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+273,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:56:24,Forenoon,13,56,1,Single,8,Hell's Kitchen,53,3,3.00,3.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+274,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:57:34,Forenoon,13,57,2,Small Order,5,Lower Manhattan,27,"3,5",3.50,7.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+275,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:57:34,Forenoon,13,57,1,Single,5,Lower Manhattan,71,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Chocolate Croissant
+276,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:58:10,Forenoon,13,58,2,Small Order,3,Astoria,46,"2,5",2.50,5.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+277,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:58:11,Forenoon,13,58,1,Single,5,Lower Manhattan,34,"2,45",2.45,2.45,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+278,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,13:59:58,Forenoon,13,59,2,Small Order,5,Lower Manhattan,39,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+279,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:03:34,Forenoon,14,3,2,Small Order,5,Lower Manhattan,25,"2,2",2.20,4.40,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+280,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:03:34,Forenoon,14,3,1,Single,5,Lower Manhattan,69,"3,25",3.25,3.25,Low,Bakery,Biscotti,Drinks/Food,Hazelnut Biscotti
+281,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:03:41,Forenoon,14,3,1,Single,3,Astoria,32,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+282,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:07:12,Forenoon,14,7,2,Small Order,3,Astoria,41,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+283,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:07:56,Forenoon,14,7,1,Single,3,Astoria,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+284,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:08:03,Forenoon,14,8,1,Single,8,Hell's Kitchen,24,3,3.00,3.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+285,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:08:03,Forenoon,14,8,1,Single,8,Hell's Kitchen,71,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Chocolate Croissant
+286,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:11:14,Forenoon,14,11,2,Small Order,8,Hell's Kitchen,60,"3,75",3.75,7.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+287,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:13:28,Forenoon,14,13,2,Small Order,5,Lower Manhattan,57,"3,1",3.10,6.20,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Lg
+288,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:19:57,Forenoon,14,19,2,Small Order,5,Lower Manhattan,23,"2,5",2.50,5.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+289,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:20:06,Forenoon,14,20,2,Small Order,3,Astoria,35,"3,1",3.10,6.20,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+290,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:20:08,Forenoon,14,20,2,Small Order,3,Astoria,42,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+291,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:22:01,Forenoon,14,22,2,Small Order,8,Hell's Kitchen,49,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+292,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:22:38,Forenoon,14,22,2,Small Order,5,Lower Manhattan,39,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+293,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:23:28,Forenoon,14,23,1,Single,8,Hell's Kitchen,55,4,4.00,4.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+294,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:23:28,Forenoon,14,23,1,Single,8,Hell's Kitchen,71,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Chocolate Croissant
+295,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:24:55,Forenoon,14,24,2,Small Order,3,Astoria,41,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+296,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:24:55,Forenoon,14,24,1,Single,3,Astoria,79,"3,75",3.75,3.75,Low,Bakery,Scone,Drinks/Food,Jumbo Savory Scone
+297,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:25:32,Forenoon,14,25,2,Small Order,3,Astoria,58,"3,5",3.50,7.00,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Rg
+298,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:25:39,Forenoon,14,25,2,Small Order,5,Lower Manhattan,24,3,3.00,6.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+299,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:26:36,Forenoon,14,26,1,Single,8,Hell's Kitchen,61,"4,75",4.75,4.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+300,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:29:05,Forenoon,14,29,2,Small Order,5,Lower Manhattan,45,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Lg
+301,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:29:50,Forenoon,14,29,2,Small Order,5,Lower Manhattan,49,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+302,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:29:50,Forenoon,14,29,1,Single,5,Lower Manhattan,78,"4,5",4.50,4.50,Low,Bakery,Scone,Drinks/Food,Scottish Cream Scone 
+303,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:30:51,Forenoon,14,30,1,Single,8,Hell's Kitchen,48,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+304,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:30:58,Forenoon,14,30,1,Single,5,Lower Manhattan,57,"3,1",3.10,3.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Lg
+305,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:31:26,Forenoon,14,31,1,Single,5,Lower Manhattan,42,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+306,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:32:20,Forenoon,14,32,2,Small Order,8,Hell's Kitchen,30,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+307,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:32:42,Forenoon,14,32,2,Small Order,5,Lower Manhattan,41,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+308,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:32:54,Forenoon,14,32,2,Small Order,8,Hell's Kitchen,39,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+309,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:35:47,Forenoon,14,35,1,Single,3,Astoria,55,4,4.00,4.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+310,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:36:23,Forenoon,14,36,2,Small Order,3,Astoria,30,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+311,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:36:35,Forenoon,14,36,1,Single,5,Lower Manhattan,57,"3,1",3.10,3.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Lg
+312,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:37:48,Forenoon,14,37,1,Single,5,Lower Manhattan,44,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+313,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:39:06,Forenoon,14,39,1,Single,5,Lower Manhattan,87,3,3.00,3.00,Low,Coffee,Barista Espresso,Drinks/Food,Ouro Brasileiro shot
+314,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:39:48,Forenoon,14,39,2,Small Order,8,Hell's Kitchen,34,"2,45",2.45,4.90,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+315,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:42:39,Forenoon,14,42,2,Small Order,5,Lower Manhattan,61,"4,75",4.75,9.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+316,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:43:13,Forenoon,14,43,2,Small Order,3,Astoria,50,"2,5",2.50,5.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+317,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:45:31,Forenoon,14,45,1,Single,3,Astoria,47,3,3.00,3.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+318,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:46:09,Forenoon,14,46,1,Single,8,Hell's Kitchen,48,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+319,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:47:29,Forenoon,14,47,1,Single,8,Hell's Kitchen,24,3,3.00,3.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+320,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:47:29,Forenoon,14,47,1,Single,8,Hell's Kitchen,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+321,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:49:49,Forenoon,14,49,2,Small Order,8,Hell's Kitchen,51,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Lg
+322,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:51:19,Forenoon,14,51,2,Small Order,5,Lower Manhattan,43,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+323,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:55:34,Forenoon,14,55,2,Small Order,3,Astoria,34,"2,45",2.45,4.90,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+324,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:58:07,Forenoon,14,58,2,Small Order,8,Hell's Kitchen,30,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+325,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,14:58:35,Forenoon,14,58,1,Single,3,Astoria,43,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+326,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:02:04,Midday,15,2,2,Small Order,3,Astoria,39,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+327,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:02:28,Midday,15,2,1,Single,8,Hell's Kitchen,38,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+328,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:06:27,Midday,15,6,2,Small Order,5,Lower Manhattan,25,"2,2",2.20,4.40,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+329,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:08:28,Midday,15,8,2,Small Order,3,Astoria,43,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+330,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:09:37,Midday,15,9,1,Single,3,Astoria,22,2,2.00,2.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+331,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:09:54,Midday,15,9,1,Single,8,Hell's Kitchen,61,"4,75",4.75,4.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+332,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:10:10,Midday,15,10,1,Single,5,Lower Manhattan,40,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+333,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:10:10,Midday,15,10,1,Single,5,Lower Manhattan,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+334,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:12:22,Midday,15,12,1,Single,3,Astoria,24,3,3.00,3.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+335,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:12:54,Midday,15,12,2,Small Order,3,Astoria,52,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+336,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:14:19,Midday,15,14,2,Small Order,3,Astoria,26,3,3.00,6.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+337,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:16:37,Midday,15,16,2,Small Order,5,Lower Manhattan,38,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+338,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:18:56,Midday,15,18,1,Single,3,Astoria,61,"4,75",4.75,4.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+339,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:19:34,Midday,15,19,1,Single,3,Astoria,29,"2,5",2.50,2.50,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Rg
+340,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:21:05,Midday,15,21,2,Small Order,8,Hell's Kitchen,30,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+341,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:22:11,Midday,15,22,2,Small Order,3,Astoria,39,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+342,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:24:01,Midday,15,24,1,Single,8,Hell's Kitchen,26,3,3.00,3.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+343,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:25:09,Midday,15,25,2,Small Order,5,Lower Manhattan,50,"2,5",2.50,5.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+344,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:27:11,Midday,15,27,2,Small Order,3,Astoria,58,"3,5",3.50,7.00,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Rg
+345,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:28:29,Midday,15,28,1,Single,3,Astoria,58,"3,5",3.50,3.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Rg
+346,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:28:54,Midday,15,28,1,Single,5,Lower Manhattan,43,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+347,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:29:24,Midday,15,29,1,Single,3,Astoria,57,"3,1",3.10,3.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Lg
+348,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:29:24,Midday,15,29,1,Single,3,Astoria,70,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Cranberry Scone
+349,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:30:16,Midday,15,30,1,Single,3,Astoria,43,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+350,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:30:27,Midday,15,30,2,Small Order,3,Astoria,31,"2,2",2.20,4.40,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+351,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:30:58,Midday,15,30,1,Single,5,Lower Manhattan,34,"2,45",2.45,2.45,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+352,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:30:58,Midday,15,30,2,Small Order,8,Hell's Kitchen,29,"2,5",2.50,5.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Rg
+353,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:33:36,Midday,15,33,2,Small Order,5,Lower Manhattan,28,2,2.00,4.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+354,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:33:36,Midday,15,33,1,Single,5,Lower Manhattan,74,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Ginger Biscotti
+355,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:34:10,Midday,15,34,2,Small Order,3,Astoria,41,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+356,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:34:10,Midday,15,34,1,Single,3,Astoria,76,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Chocolate Chip Biscotti
+357,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:36:59,Midday,15,36,2,Small Order,5,Lower Manhattan,37,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Espresso shot
+358,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:39:44,Midday,15,39,1,Single,8,Hell's Kitchen,44,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+359,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:42:20,Midday,15,42,1,Single,3,Astoria,36,"3,75",3.75,3.75,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+360,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:45:16,Midday,15,45,2,Small Order,3,Astoria,46,"2,5",2.50,5.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+361,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:46:34,Midday,15,46,2,Small Order,5,Lower Manhattan,40,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+362,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:51:15,Midday,15,51,2,Small Order,8,Hell's Kitchen,35,"3,1",3.10,6.20,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+363,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:52:23,Midday,15,52,2,Small Order,5,Lower Manhattan,39,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+364,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:52:23,Midday,15,52,1,Single,5,Lower Manhattan,69,"3,25",3.25,3.25,Low,Bakery,Biscotti,Drinks/Food,Hazelnut Biscotti
+365,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:53:55,Midday,15,53,2,Small Order,5,Lower Manhattan,33,"3,5",3.50,7.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Lg
+366,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:55:45,Midday,15,55,1,Single,8,Hell's Kitchen,24,3,3.00,3.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+367,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:55:50,Midday,15,55,2,Small Order,3,Astoria,31,"2,2",2.20,4.40,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+368,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,15:58:55,Midday,15,58,1,Single,8,Hell's Kitchen,48,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+369,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:00:23,Midday,16,0,1,Single,8,Hell's Kitchen,38,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+370,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:02:07,Midday,16,2,1,Single,8,Hell's Kitchen,41,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+371,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:03:30,Midday,16,3,2,Small Order,3,Astoria,34,"2,45",2.45,4.90,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+372,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:03:54,Midday,16,3,1,Single,8,Hell's Kitchen,46,"2,5",2.50,2.50,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+373,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:04:10,Midday,16,4,2,Small Order,3,Astoria,42,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+374,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:06:04,Midday,16,6,2,Small Order,3,Astoria,23,"2,5",2.50,5.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+375,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:07:20,Midday,16,7,2,Small Order,3,Astoria,23,"2,5",2.50,5.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+376,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:08:59,Midday,16,8,2,Small Order,3,Astoria,42,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+377,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:10:37,Midday,16,10,2,Small Order,3,Astoria,42,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+378,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:12:00,Midday,16,12,1,Single,8,Hell's Kitchen,87,3,3.00,3.00,Low,Coffee,Barista Espresso,Drinks/Food,Ouro Brasileiro shot
+379,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:17:06,Midday,16,17,2,Small Order,3,Astoria,34,"2,45",2.45,4.90,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+380,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:17:52,Midday,16,17,2,Small Order,3,Astoria,29,"2,5",2.50,5.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Rg
+381,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:19:00,Midday,16,19,2,Small Order,8,Hell's Kitchen,29,"2,5",2.50,5.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Rg
+382,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:19:17,Midday,16,19,1,Single,3,Astoria,56,"2,55",2.55,2.55,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+383,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:19:26,Midday,16,19,2,Small Order,5,Lower Manhattan,40,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+384,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:20:07,Midday,16,20,2,Small Order,3,Astoria,36,"3,75",3.75,7.50,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+385,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:22:07,Midday,16,22,1,Single,5,Lower Manhattan,22,2,2.00,2.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+386,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:22:38,Midday,16,22,1,Single,3,Astoria,22,2,2.00,2.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+387,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:25:28,Midday,16,25,1,Single,3,Astoria,44,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+388,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:27:42,Midday,16,27,1,Single,5,Lower Manhattan,56,"2,55",2.55,2.55,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+389,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:28:00,Midday,16,28,2,Small Order,8,Hell's Kitchen,53,3,3.00,6.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+390,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:28:57,Midday,16,28,1,Single,5,Lower Manhattan,42,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+391,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:29:36,Midday,16,29,2,Small Order,3,Astoria,27,"3,5",3.50,7.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+392,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:30:12,Midday,16,30,1,Single,3,Astoria,40,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+393,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:33:35,Midday,16,33,1,Single,3,Astoria,35,"3,1",3.10,3.10,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+394,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:35:11,Midday,16,35,1,Single,5,Lower Manhattan,28,2,2.00,2.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+395,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:39:24,Midday,16,39,1,Single,3,Astoria,36,"3,75",3.75,3.75,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+396,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:39:27,Midday,16,39,1,Single,8,Hell's Kitchen,58,"3,5",3.50,3.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Rg
+397,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:40:18,Midday,16,40,1,Single,3,Astoria,33,"3,5",3.50,3.50,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Lg
+398,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:40:19,Midday,16,40,1,Single,5,Lower Manhattan,46,"2,5",2.50,2.50,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+399,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:41:51,Midday,16,41,1,Single,5,Lower Manhattan,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+400,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:43:33,Midday,16,43,2,Small Order,8,Hell's Kitchen,50,"2,5",2.50,5.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+401,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:44:46,Midday,16,44,2,Small Order,3,Astoria,54,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+402,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:47:05,Midday,16,47,1,Single,5,Lower Manhattan,44,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+403,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:47:05,Midday,16,47,1,Single,5,Lower Manhattan,72,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Ginger Scone
+404,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:48:31,Midday,16,48,2,Small Order,5,Lower Manhattan,44,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+405,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:49:19,Midday,16,49,1,Single,5,Lower Manhattan,53,3,3.00,3.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+406,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:49:19,Midday,16,49,1,Single,5,Lower Manhattan,71,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Chocolate Croissant
+407,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:49:38,Midday,16,49,1,Single,3,Astoria,52,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+408,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:52:13,Midday,16,52,2,Small Order,8,Hell's Kitchen,42,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+409,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:52:51,Midday,16,52,1,Single,5,Lower Manhattan,50,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+410,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:56:48,Midday,16,56,1,Single,3,Astoria,28,2,2.00,2.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+411,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:58:42,Midday,16,58,1,Single,3,Astoria,58,"3,5",3.50,3.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Rg
+412,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,16:58:42,Midday,16,58,1,Single,3,Astoria,69,"3,25",3.25,3.25,Low,Bakery,Biscotti,Drinks/Food,Hazelnut Biscotti
+413,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:01:03,Midday,17,1,2,Small Order,5,Lower Manhattan,36,"3,75",3.75,7.50,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+414,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:01:31,Midday,17,1,2,Small Order,8,Hell's Kitchen,50,"2,5",2.50,5.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+415,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:03:21,Midday,17,3,1,Single,3,Astoria,50,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+416,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:05:44,Midday,17,5,2,Small Order,3,Astoria,36,"3,75",3.75,7.50,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+417,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:09:18,Midday,17,9,2,Small Order,8,Hell's Kitchen,47,3,3.00,6.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+418,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:10:34,Midday,17,10,1,Single,3,Astoria,27,"3,5",3.50,3.50,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+419,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:10:35,Midday,17,10,1,Single,3,Astoria,59,"4,5",4.50,4.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Lg
+420,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:11:58,Midday,17,11,2,Small Order,8,Hell's Kitchen,36,"3,75",3.75,7.50,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+421,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:13:17,Midday,17,13,2,Small Order,5,Lower Manhattan,31,"2,2",2.20,4.40,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+422,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:16:17,Midday,17,16,1,Single,8,Hell's Kitchen,35,"3,1",3.10,3.10,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+423,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:17:19,Midday,17,17,2,Small Order,8,Hell's Kitchen,55,4,4.00,8.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+424,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:17:22,Midday,17,17,1,Single,8,Hell's Kitchen,31,"2,2",2.20,2.20,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+425,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:18:36,Midday,17,18,1,Single,3,Astoria,29,"2,5",2.50,2.50,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Rg
+426,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:19:08,Midday,17,19,2,Small Order,5,Lower Manhattan,34,"2,45",2.45,4.90,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+427,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:19:08,Midday,17,19,1,Single,5,Lower Manhattan,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+428,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:19:11,Midday,17,19,2,Small Order,8,Hell's Kitchen,39,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+429,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:19:28,Midday,17,19,2,Small Order,8,Hell's Kitchen,28,2,2.00,4.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+430,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:19:49,Midday,17,19,2,Small Order,8,Hell's Kitchen,87,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Ouro Brasileiro shot
+431,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:19:49,Midday,17,19,1,Single,8,Hell's Kitchen,78,"4,5",4.50,4.50,Low,Bakery,Scone,Drinks/Food,Scottish Cream Scone 
+432,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:20:02,Midday,17,20,2,Small Order,8,Hell's Kitchen,46,"2,5",2.50,5.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+433,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:20:02,Midday,17,20,1,Single,8,Hell's Kitchen,77,3,3.00,3.00,Low,Bakery,Scone,Drinks/Food,Oatmeal Scone
+434,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:22:36,Midday,17,22,1,Single,3,Astoria,36,"3,75",3.75,3.75,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+435,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:23:03,Midday,17,23,1,Single,5,Lower Manhattan,48,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+436,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:23:04,Midday,17,23,1,Single,3,Astoria,41,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+437,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:25:45,Midday,17,25,2,Small Order,3,Astoria,58,"3,5",3.50,7.00,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Rg
+438,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:26:15,Midday,17,26,1,Single,8,Hell's Kitchen,35,"3,1",3.10,3.10,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+439,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:26:15,Midday,17,26,1,Single,8,Hell's Kitchen,76,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Chocolate Chip Biscotti
+440,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:28:42,Midday,17,28,1,Single,5,Lower Manhattan,37,3,3.00,3.00,Low,Coffee,Barista Espresso,Drinks/Food,Espresso shot
+441,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:28:42,Midday,17,28,1,Single,5,Lower Manhattan,70,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Cranberry Scone
+442,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:29:25,Midday,17,29,1,Single,3,Astoria,46,"2,5",2.50,2.50,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+443,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:29:25,Midday,17,29,1,Single,3,Astoria,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+444,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:34:47,Midday,17,34,2,Small Order,8,Hell's Kitchen,54,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+445,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:35:26,Midday,17,35,1,Single,3,Astoria,47,3,3.00,3.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+446,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:35:26,Midday,17,35,1,Single,3,Astoria,69,"3,25",3.25,3.25,Low,Bakery,Biscotti,Drinks/Food,Hazelnut Biscotti
+447,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:37:26,Midday,17,37,1,Single,8,Hell's Kitchen,42,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+448,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:40:50,Midday,17,40,1,Single,3,Astoria,55,4,4.00,4.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+449,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:41:55,Midday,17,41,2,Small Order,3,Astoria,55,4,4.00,8.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+450,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:41:55,Midday,17,41,1,Single,3,Astoria,71,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Chocolate Croissant
+451,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:43:49,Midday,17,43,2,Small Order,8,Hell's Kitchen,52,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+452,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:44:28,Midday,17,44,2,Small Order,3,Astoria,27,"3,5",3.50,7.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+453,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:44:28,Midday,17,44,1,Single,3,Astoria,74,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Ginger Biscotti
+454,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:44:48,Midday,17,44,1,Single,8,Hell's Kitchen,34,"2,45",2.45,2.45,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+455,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:45:21,Midday,17,45,1,Single,8,Hell's Kitchen,27,"3,5",3.50,3.50,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+456,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:46:21,Midday,17,46,2,Small Order,8,Hell's Kitchen,36,"3,75",3.75,7.50,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+457,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:46:21,Midday,17,46,1,Single,8,Hell's Kitchen,76,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Chocolate Chip Biscotti
+458,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:49:04,Midday,17,49,2,Small Order,8,Hell's Kitchen,60,"3,75",3.75,7.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+459,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:50:19,Midday,17,50,1,Single,5,Lower Manhattan,45,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Lg
+460,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:50:30,Midday,17,50,2,Small Order,8,Hell's Kitchen,38,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+461,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:51:06,Midday,17,51,2,Small Order,3,Astoria,60,"3,75",3.75,7.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+462,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:54:11,Midday,17,54,2,Small Order,3,Astoria,56,"2,55",2.55,5.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+463,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:56:46,Midday,17,56,1,Single,8,Hell's Kitchen,30,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+464,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:58:01,Midday,17,58,1,Single,5,Lower Manhattan,39,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+465,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:59:44,Midday,17,59,2,Small Order,8,Hell's Kitchen,53,3,3.00,6.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+466,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,17:59:44,Midday,17,59,1,Single,8,Hell's Kitchen,76,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Chocolate Chip Biscotti
+467,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:01:08,Late Afternoon,18,1,2,Small Order,8,Hell's Kitchen,45,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Lg
+468,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:02:00,Late Afternoon,18,2,1,Single,3,Astoria,52,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+469,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:02:21,Late Afternoon,18,2,2,Small Order,5,Lower Manhattan,49,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+470,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:03:13,Late Afternoon,18,3,1,Single,3,Astoria,28,2,2.00,2.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+471,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:03:13,Late Afternoon,18,3,1,Single,3,Astoria,78,"4,5",4.50,4.50,Low,Bakery,Scone,Drinks/Food,Scottish Cream Scone 
+472,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:04:34,Late Afternoon,18,4,1,Single,3,Astoria,28,2,2.00,2.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+473,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:06:52,Late Afternoon,18,6,2,Small Order,3,Astoria,30,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+474,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:06:52,Late Afternoon,18,6,1,Single,3,Astoria,79,"3,75",3.75,3.75,Low,Bakery,Scone,Drinks/Food,Jumbo Savory Scone
+475,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:07:13,Late Afternoon,18,7,1,Single,8,Hell's Kitchen,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+476,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:08:53,Late Afternoon,18,8,2,Small Order,3,Astoria,34,"2,45",2.45,4.90,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+477,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:12:37,Late Afternoon,18,12,2,Small Order,3,Astoria,25,"2,2",2.20,4.40,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+478,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:13:32,Late Afternoon,18,13,2,Small Order,5,Lower Manhattan,23,"2,5",2.50,5.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+479,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:13:41,Late Afternoon,18,13,2,Small Order,8,Hell's Kitchen,57,"3,1",3.10,6.20,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Lg
+480,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:14:28,Late Afternoon,18,14,2,Small Order,8,Hell's Kitchen,26,3,3.00,6.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+481,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:17:09,Late Afternoon,18,17,2,Small Order,8,Hell's Kitchen,36,"3,75",3.75,7.50,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+482,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:18:10,Late Afternoon,18,18,1,Single,3,Astoria,59,"4,5",4.50,4.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Lg
+483,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:19:45,Late Afternoon,18,19,1,Single,5,Lower Manhattan,52,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+484,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:19:45,Late Afternoon,18,19,1,Single,5,Lower Manhattan,76,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Chocolate Chip Biscotti
+485,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:21:22,Late Afternoon,18,21,1,Single,3,Astoria,46,"2,5",2.50,2.50,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+486,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:22:12,Late Afternoon,18,22,2,Small Order,3,Astoria,61,"4,75",4.75,9.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+487,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:22:48,Late Afternoon,18,22,2,Small Order,5,Lower Manhattan,37,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Espresso shot
+488,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:22:53,Late Afternoon,18,22,1,Single,3,Astoria,32,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+489,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:22:53,Late Afternoon,18,22,1,Single,3,Astoria,79,"3,75",3.75,3.75,Low,Bakery,Scone,Drinks/Food,Jumbo Savory Scone
+490,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:23:34,Late Afternoon,18,23,2,Small Order,5,Lower Manhattan,53,3,3.00,6.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+491,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:25:51,Late Afternoon,18,25,1,Single,3,Astoria,61,"4,75",4.75,4.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+492,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:25:57,Late Afternoon,18,25,1,Single,8,Hell's Kitchen,43,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+493,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:27:08,Late Afternoon,18,27,2,Small Order,5,Lower Manhattan,54,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+494,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:29:34,Late Afternoon,18,29,2,Small Order,8,Hell's Kitchen,44,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+495,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:30:05,Late Afternoon,18,30,2,Small Order,3,Astoria,55,4,4.00,8.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+496,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:34:56,Late Afternoon,18,34,2,Small Order,3,Astoria,60,"3,75",3.75,7.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+497,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:39:29,Late Afternoon,18,39,1,Single,3,Astoria,22,2,2.00,2.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+498,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:40:29,Late Afternoon,18,40,2,Small Order,8,Hell's Kitchen,53,3,3.00,6.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+499,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:41:13,Late Afternoon,18,41,1,Single,3,Astoria,24,3,3.00,3.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+500,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:41:28,Late Afternoon,18,41,2,Small Order,8,Hell's Kitchen,49,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+501,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:42:04,Late Afternoon,18,42,2,Small Order,3,Astoria,60,"3,75",3.75,7.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+502,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:42:16,Late Afternoon,18,42,1,Single,8,Hell's Kitchen,54,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+503,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:43:19,Late Afternoon,18,43,1,Single,3,Astoria,57,"3,1",3.10,3.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Lg
+504,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:43:42,Late Afternoon,18,43,1,Single,3,Astoria,25,"2,2",2.20,2.20,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+505,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:45:11,Late Afternoon,18,45,2,Small Order,3,Astoria,38,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+506,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:49:48,Late Afternoon,18,49,1,Single,3,Astoria,27,"3,5",3.50,3.50,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+507,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:51:23,Late Afternoon,18,51,2,Small Order,3,Astoria,24,3,3.00,6.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+508,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:51:41,Late Afternoon,18,51,1,Single,3,Astoria,28,2,2.00,2.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+509,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:52:18,Late Afternoon,18,52,2,Small Order,8,Hell's Kitchen,22,2,2.00,4.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+510,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:52:57,Late Afternoon,18,52,2,Small Order,3,Astoria,59,"4,5",4.50,9.00,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Lg
+511,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:55:19,Late Afternoon,18,55,2,Small Order,3,Astoria,56,"2,55",2.55,5.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+512,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:56:24,Late Afternoon,18,56,2,Small Order,8,Hell's Kitchen,53,3,3.00,6.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+513,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:56:35,Late Afternoon,18,56,2,Small Order,8,Hell's Kitchen,39,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+514,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,18:56:35,Late Afternoon,18,56,1,Single,8,Hell's Kitchen,73,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Almond Croissant
+515,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:00:27,Late Afternoon,19,0,1,Single,3,Astoria,43,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+516,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:02:52,Late Afternoon,19,2,2,Small Order,8,Hell's Kitchen,37,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Espresso shot
+517,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:06:58,Late Afternoon,19,6,1,Single,8,Hell's Kitchen,38,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+518,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:07:26,Late Afternoon,19,7,2,Small Order,8,Hell's Kitchen,24,3,3.00,6.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+519,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:07:40,Late Afternoon,19,7,1,Single,3,Astoria,55,4,4.00,4.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+520,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:08:11,Late Afternoon,19,8,2,Small Order,8,Hell's Kitchen,27,"3,5",3.50,7.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+521,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:08:56,Late Afternoon,19,8,1,Single,3,Astoria,60,"3,75",3.75,3.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+522,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:09:54,Late Afternoon,19,9,1,Single,8,Hell's Kitchen,41,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+523,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:10:16,Late Afternoon,19,10,2,Small Order,3,Astoria,27,"3,5",3.50,7.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+524,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:10:53,Late Afternoon,19,10,2,Small Order,8,Hell's Kitchen,55,4,4.00,8.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+525,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:12:49,Late Afternoon,19,12,2,Small Order,3,Astoria,40,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+526,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:14:09,Late Afternoon,19,14,2,Small Order,3,Astoria,32,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+527,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:15:15,Late Afternoon,19,15,1,Single,3,Astoria,55,4,4.00,4.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+528,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:21:35,Late Afternoon,19,21,1,Single,8,Hell's Kitchen,49,3,3.00,3.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+529,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:22:39,Late Afternoon,19,22,1,Single,8,Hell's Kitchen,40,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+530,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:24:18,Late Afternoon,19,24,1,Single,8,Hell's Kitchen,46,"2,5",2.50,2.50,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+531,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:24:18,Late Afternoon,19,24,1,Single,8,Hell's Kitchen,77,3,3.00,3.00,Low,Bakery,Scone,Drinks/Food,Oatmeal Scone
+532,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:29:01,Late Afternoon,19,29,2,Small Order,3,Astoria,44,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+533,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:29:07,Late Afternoon,19,29,1,Single,3,Astoria,38,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+534,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:30:55,Late Afternoon,19,30,2,Small Order,3,Astoria,51,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Lg
+535,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:34:03,Late Afternoon,19,34,1,Single,8,Hell's Kitchen,43,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+536,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:34:39,Late Afternoon,19,34,2,Small Order,8,Hell's Kitchen,61,"4,75",4.75,9.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+537,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:34:48,Late Afternoon,19,34,1,Single,3,Astoria,40,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+538,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:35:55,Late Afternoon,19,35,2,Small Order,8,Hell's Kitchen,27,"3,5",3.50,7.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+539,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:37:51,Late Afternoon,19,37,1,Single,3,Astoria,60,"3,75",3.75,3.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+540,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:38:46,Late Afternoon,19,38,2,Small Order,3,Astoria,55,4,4.00,8.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+541,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:39:00,Late Afternoon,19,39,2,Small Order,3,Astoria,47,3,3.00,6.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+542,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:39:32,Late Afternoon,19,39,1,Single,3,Astoria,37,3,3.00,3.00,Low,Coffee,Barista Espresso,Drinks/Food,Espresso shot
+543,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:43:29,Late Afternoon,19,43,1,Single,3,Astoria,54,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+544,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:44:41,Late Afternoon,19,44,1,Single,8,Hell's Kitchen,61,"4,75",4.75,4.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+545,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:45:28,Late Afternoon,19,45,1,Single,8,Hell's Kitchen,26,3,3.00,3.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+546,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:49:37,Late Afternoon,19,49,1,Single,3,Astoria,36,"3,75",3.75,3.75,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+547,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:52:47,Late Afternoon,19,52,1,Single,8,Hell's Kitchen,32,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+548,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:57:56,Late Afternoon,19,57,1,Single,3,Astoria,35,"3,1",3.10,3.10,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+549,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:58:29,Late Afternoon,19,58,1,Single,3,Astoria,55,4,4.00,4.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+550,2023-01-01,2023,Q1,1,Jan 2023,52,1,Sunday,Weekend,19:58:52,Late Afternoon,19,58,1,Single,3,Astoria,39,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+551,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,07:01:59,Dawn,7,1,1,Single,5,Lower Manhattan,87,3,3.00,3.00,Low,Coffee,Barista Espresso,Drinks/Food,Ouro Brasileiro shot
+552,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,07:12:05,Dawn,7,12,1,Single,5,Lower Manhattan,51,3,3.00,3.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Lg
+553,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,07:16:35,Dawn,7,16,2,Small Order,5,Lower Manhattan,28,2,2.00,4.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+554,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,07:16:46,Dawn,7,16,1,Single,5,Lower Manhattan,57,"3,1",3.10,3.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Lg
+555,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,07:16:46,Dawn,7,16,1,Single,5,Lower Manhattan,70,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Cranberry Scone
+556,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,07:22:08,Dawn,7,22,2,Small Order,5,Lower Manhattan,61,"4,75",4.75,9.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+557,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,07:22:45,Dawn,7,22,1,Single,5,Lower Manhattan,42,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+558,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,07:25:59,Dawn,7,25,1,Single,5,Lower Manhattan,24,3,3.00,3.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+559,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,07:35:10,Dawn,7,35,1,Single,5,Lower Manhattan,53,3,3.00,3.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+560,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,07:48:26,Dawn,7,48,1,Single,5,Lower Manhattan,41,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+561,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,07:48:26,Dawn,7,48,1,Single,5,Lower Manhattan,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+562,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,07:53:48,Dawn,7,53,2,Small Order,5,Lower Manhattan,27,"3,5",3.50,7.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+563,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,07:59:47,Dawn,7,59,1,Single,5,Lower Manhattan,48,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+564,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,07:59:47,Dawn,7,59,1,Single,5,Lower Manhattan,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+565,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:03:47,Dawn,8,3,2,Small Order,8,Hell's Kitchen,32,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+566,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:04:06,Dawn,8,4,2,Small Order,8,Hell's Kitchen,31,"2,2",2.20,4.40,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+567,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:04:55,Dawn,8,4,1,Single,8,Hell's Kitchen,25,"2,2",2.20,2.20,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+568,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:04:59,Dawn,8,4,1,Single,5,Lower Manhattan,61,"4,75",4.75,4.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+569,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:09:46,Dawn,8,9,1,Single,5,Lower Manhattan,48,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+570,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:09:51,Dawn,8,9,1,Single,5,Lower Manhattan,61,"4,75",4.75,4.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+571,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:11:11,Dawn,8,11,2,Small Order,8,Hell's Kitchen,61,"4,75",4.75,9.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+572,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:11:11,Dawn,8,11,1,Single,8,Hell's Kitchen,74,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Ginger Biscotti
+573,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:13:24,Dawn,8,13,1,Single,8,Hell's Kitchen,27,"3,5",3.50,3.50,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+574,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:14:13,Dawn,8,14,1,Single,5,Lower Manhattan,55,4,4.00,4.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+575,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:15:07,Dawn,8,15,1,Single,8,Hell's Kitchen,36,"3,75",3.75,3.75,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+576,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:15:10,Dawn,8,15,2,Small Order,8,Hell's Kitchen,30,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+577,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:17:28,Dawn,8,17,1,Single,8,Hell's Kitchen,44,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+578,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:20:38,Dawn,8,20,2,Small Order,5,Lower Manhattan,44,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+579,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:21:32,Dawn,8,21,2,Small Order,8,Hell's Kitchen,38,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+580,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:23:15,Dawn,8,23,1,Single,8,Hell's Kitchen,26,3,3.00,3.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+581,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:25:22,Dawn,8,25,1,Single,5,Lower Manhattan,25,"2,2",2.20,2.20,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+582,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:26:13,Dawn,8,26,2,Small Order,5,Lower Manhattan,28,2,2.00,4.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+583,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:26:21,Dawn,8,26,2,Small Order,8,Hell's Kitchen,31,"2,2",2.20,4.40,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+584,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:30:10,Dawn,8,30,1,Single,5,Lower Manhattan,29,"2,5",2.50,2.50,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Rg
+585,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:31:35,Dawn,8,31,1,Single,8,Hell's Kitchen,35,"3,1",3.10,3.10,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+586,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:34:25,Dawn,8,34,2,Small Order,8,Hell's Kitchen,25,"2,2",2.20,4.40,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+587,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:34:30,Dawn,8,34,1,Single,8,Hell's Kitchen,48,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+588,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:43:50,Dawn,8,43,1,Single,8,Hell's Kitchen,32,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+589,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:51:31,Dawn,8,51,2,Small Order,5,Lower Manhattan,32,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+590,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,08:55:40,Dawn,8,55,1,Single,5,Lower Manhattan,28,2,2.00,2.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+591,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:00:14,Dawn,9,0,1,Single,8,Hell's Kitchen,39,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+592,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:01:24,Dawn,9,1,1,Single,8,Hell's Kitchen,53,3,3.00,3.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+593,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:06:29,Dawn,9,6,1,Single,5,Lower Manhattan,33,"3,5",3.50,3.50,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Lg
+594,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:07:31,Dawn,9,7,2,Small Order,5,Lower Manhattan,37,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Espresso shot
+595,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:11:10,Dawn,9,11,1,Single,8,Hell's Kitchen,59,"4,5",4.50,4.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Lg
+596,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:11:10,Dawn,9,11,1,Single,8,Hell's Kitchen,79,"3,75",3.75,3.75,Low,Bakery,Scone,Drinks/Food,Jumbo Savory Scone
+597,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:11:45,Dawn,9,11,1,Single,8,Hell's Kitchen,61,"4,75",4.75,4.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+598,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:11:57,Dawn,9,11,2,Small Order,8,Hell's Kitchen,34,"2,45",2.45,4.90,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+599,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:11:57,Dawn,9,11,1,Single,8,Hell's Kitchen,72,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Ginger Scone
+600,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:12:47,Dawn,9,12,2,Small Order,5,Lower Manhattan,31,"2,2",2.20,4.40,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+601,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:12:47,Dawn,9,12,1,Single,5,Lower Manhattan,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+602,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:17:08,Dawn,9,17,1,Single,8,Hell's Kitchen,46,"2,5",2.50,2.50,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+603,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:21:01,Dawn,9,21,1,Single,8,Hell's Kitchen,55,4,4.00,4.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+604,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:22:26,Dawn,9,22,1,Single,8,Hell's Kitchen,40,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+605,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:25:27,Dawn,9,25,1,Single,5,Lower Manhattan,29,"2,5",2.50,2.50,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Rg
+606,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:26:16,Dawn,9,26,2,Small Order,8,Hell's Kitchen,28,2,2.00,4.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+607,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:29:47,Dawn,9,29,2,Small Order,8,Hell's Kitchen,22,2,2.00,4.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+608,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:29:47,Dawn,9,29,1,Single,8,Hell's Kitchen,70,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Cranberry Scone
+609,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:31:37,Dawn,9,31,2,Small Order,8,Hell's Kitchen,59,"4,5",4.50,9.00,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Lg
+610,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:33:57,Dawn,9,33,2,Small Order,8,Hell's Kitchen,23,"2,5",2.50,5.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+611,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:36:26,Dawn,9,36,1,Single,8,Hell's Kitchen,87,3,3.00,3.00,Low,Coffee,Barista Espresso,Drinks/Food,Ouro Brasileiro shot
+612,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:38:46,Dawn,9,38,2,Small Order,8,Hell's Kitchen,87,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Ouro Brasileiro shot
+613,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:40:52,Dawn,9,40,1,Single,5,Lower Manhattan,48,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+614,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:45:34,Dawn,9,45,1,Single,5,Lower Manhattan,30,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+615,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:46:33,Dawn,9,46,2,Small Order,8,Hell's Kitchen,48,"2,5",2.50,5.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+616,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:48:46,Dawn,9,48,2,Small Order,8,Hell's Kitchen,32,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+617,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:50:09,Dawn,9,50,1,Single,8,Hell's Kitchen,27,"3,5",3.50,3.50,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+618,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:50:57,Dawn,9,50,1,Single,5,Lower Manhattan,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+619,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:52:17,Dawn,9,52,1,Single,5,Lower Manhattan,26,3,3.00,3.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+620,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:54:48,Dawn,9,54,1,Single,8,Hell's Kitchen,34,"2,45",2.45,2.45,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+621,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:56:28,Dawn,9,56,2,Small Order,8,Hell's Kitchen,41,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+622,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:56:45,Dawn,9,56,1,Single,5,Lower Manhattan,51,3,3.00,3.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Lg
+623,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,09:58:47,Dawn,9,58,2,Small Order,5,Lower Manhattan,37,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Espresso shot
+624,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:01:57,Dawn,10,1,1,Single,8,Hell's Kitchen,61,"4,75",4.75,4.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+625,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:03:39,Dawn,10,3,1,Single,8,Hell's Kitchen,30,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+626,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:03:39,Dawn,10,3,1,Single,8,Hell's Kitchen,76,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Chocolate Chip Biscotti
+627,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:05:11,Dawn,10,5,1,Single,5,Lower Manhattan,58,"3,5",3.50,3.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Rg
+628,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:05:22,Dawn,10,5,1,Single,5,Lower Manhattan,55,4,4.00,4.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+629,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:07:28,Dawn,10,7,1,Single,5,Lower Manhattan,26,3,3.00,3.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+630,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:08:23,Dawn,10,8,1,Single,8,Hell's Kitchen,43,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+631,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:10:47,Dawn,10,10,2,Small Order,8,Hell's Kitchen,56,"2,55",2.55,5.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+632,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:13:55,Dawn,10,13,2,Small Order,5,Lower Manhattan,26,3,3.00,6.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+633,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:13:55,Dawn,10,13,1,Single,5,Lower Manhattan,79,"3,75",3.75,3.75,Low,Bakery,Scone,Drinks/Food,Jumbo Savory Scone
+634,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:16:43,Dawn,10,16,1,Single,5,Lower Manhattan,28,2,2.00,2.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+635,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:19:33,Dawn,10,19,1,Single,8,Hell's Kitchen,61,"4,75",4.75,4.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+636,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:20:52,Dawn,10,20,2,Small Order,8,Hell's Kitchen,42,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+637,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:22:19,Dawn,10,22,1,Single,5,Lower Manhattan,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+638,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:26:49,Dawn,10,26,1,Single,5,Lower Manhattan,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+639,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:27:05,Dawn,10,27,1,Single,5,Lower Manhattan,25,"2,2",2.20,2.20,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+640,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:28:41,Dawn,10,28,1,Single,8,Hell's Kitchen,42,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+641,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:30:39,Dawn,10,30,2,Small Order,8,Hell's Kitchen,44,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+642,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:36:18,Dawn,10,36,2,Small Order,8,Hell's Kitchen,50,"2,5",2.50,5.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+643,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:36:44,Dawn,10,36,1,Single,5,Lower Manhattan,51,3,3.00,3.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Lg
+644,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:38:55,Dawn,10,38,2,Small Order,8,Hell's Kitchen,51,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Lg
+645,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:48:57,Dawn,10,48,1,Single,5,Lower Manhattan,53,3,3.00,3.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+646,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:49:58,Dawn,10,49,1,Single,8,Hell's Kitchen,32,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+647,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:55:08,Dawn,10,55,1,Single,8,Hell's Kitchen,55,4,4.00,4.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+648,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:55:35,Dawn,10,55,1,Single,8,Hell's Kitchen,48,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+649,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,10:59:58,Dawn,10,59,1,Single,8,Hell's Kitchen,32,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+650,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:01:06,Dawn,11,1,2,Small Order,5,Lower Manhattan,48,"2,5",2.50,5.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+651,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:04:21,Dawn,11,4,1,Single,3,Astoria,27,"3,5",3.50,3.50,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+652,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:04:21,Dawn,11,4,1,Single,3,Astoria,70,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Cranberry Scone
+653,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:06:10,Dawn,11,6,1,Single,3,Astoria,26,3,3.00,3.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+654,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:06:10,Dawn,11,6,1,Single,3,Astoria,77,3,3.00,3.00,Low,Bakery,Scone,Drinks/Food,Oatmeal Scone
+655,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:06:28,Dawn,11,6,1,Single,5,Lower Manhattan,25,"2,2",2.20,2.20,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+656,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:10:15,Dawn,11,10,2,Small Order,8,Hell's Kitchen,29,"2,5",2.50,5.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Rg
+657,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:11:23,Dawn,11,11,2,Small Order,3,Astoria,26,3,3.00,6.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+658,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:12:05,Dawn,11,12,1,Single,8,Hell's Kitchen,41,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+659,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:12:33,Dawn,11,12,1,Single,5,Lower Manhattan,46,"2,5",2.50,2.50,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+660,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:13:01,Dawn,11,13,2,Small Order,3,Astoria,22,2,2.00,4.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+661,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:13:37,Dawn,11,13,1,Single,8,Hell's Kitchen,50,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+662,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:14:15,Dawn,11,14,2,Small Order,3,Astoria,32,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+663,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:15:12,Dawn,11,15,1,Single,3,Astoria,40,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+664,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:15:28,Dawn,11,15,1,Single,3,Astoria,30,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+665,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:15:40,Dawn,11,15,1,Single,3,Astoria,42,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+666,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:16:51,Dawn,11,16,2,Small Order,3,Astoria,31,"2,2",2.20,4.40,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+667,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:16:51,Dawn,11,16,1,Single,3,Astoria,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+668,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:18:12,Dawn,11,18,2,Small Order,3,Astoria,36,"3,75",3.75,7.50,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+669,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:18:25,Dawn,11,18,2,Small Order,3,Astoria,52,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+670,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:19:12,Dawn,11,19,2,Small Order,3,Astoria,30,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+671,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:19:42,Dawn,11,19,1,Single,8,Hell's Kitchen,35,"3,1",3.10,3.10,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+672,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:21:43,Dawn,11,21,2,Small Order,3,Astoria,29,"2,5",2.50,5.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Rg
+673,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:21:49,Dawn,11,21,2,Small Order,3,Astoria,38,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+674,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:22:46,Dawn,11,22,1,Single,3,Astoria,53,3,3.00,3.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+675,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:25:20,Dawn,11,25,2,Small Order,5,Lower Manhattan,54,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+676,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:27:35,Dawn,11,27,2,Small Order,5,Lower Manhattan,48,"2,5",2.50,5.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+677,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:32:11,Dawn,11,32,2,Small Order,8,Hell's Kitchen,47,3,3.00,6.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+678,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:34:44,Dawn,11,34,1,Single,8,Hell's Kitchen,43,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+679,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:35:02,Dawn,11,35,1,Single,3,Astoria,49,3,3.00,3.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+680,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:35:02,Dawn,11,35,1,Single,3,Astoria,79,"3,75",3.75,3.75,Low,Bakery,Scone,Drinks/Food,Jumbo Savory Scone
+681,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:35:14,Dawn,11,35,2,Small Order,3,Astoria,25,"2,2",2.20,4.40,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+682,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:35:14,Dawn,11,35,1,Single,3,Astoria,69,"3,25",3.25,3.25,Low,Bakery,Biscotti,Drinks/Food,Hazelnut Biscotti
+683,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:36:50,Dawn,11,36,2,Small Order,5,Lower Manhattan,58,"3,5",3.50,7.00,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Rg
+684,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:38:23,Dawn,11,38,2,Small Order,3,Astoria,24,3,3.00,6.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+685,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:39:11,Dawn,11,39,2,Small Order,5,Lower Manhattan,42,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+686,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:39:11,Dawn,11,39,1,Single,5,Lower Manhattan,74,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Ginger Biscotti
+687,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:40:12,Dawn,11,40,2,Small Order,8,Hell's Kitchen,45,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Lg
+688,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:41:54,Dawn,11,41,1,Single,5,Lower Manhattan,48,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+689,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:42:36,Dawn,11,42,2,Small Order,8,Hell's Kitchen,45,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Lg
+690,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:42:36,Dawn,11,42,1,Single,8,Hell's Kitchen,72,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Ginger Scone
+691,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:43:04,Dawn,11,43,2,Small Order,3,Astoria,26,3,3.00,6.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+692,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:49:10,Dawn,11,49,1,Single,5,Lower Manhattan,44,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+693,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:50:18,Dawn,11,50,1,Single,8,Hell's Kitchen,33,"3,5",3.50,3.50,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Lg
+694,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:50:32,Dawn,11,50,1,Single,8,Hell's Kitchen,33,"3,5",3.50,3.50,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Lg
+695,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:53:48,Dawn,11,53,2,Small Order,8,Hell's Kitchen,48,"2,5",2.50,5.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+696,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:53:54,Dawn,11,53,2,Small Order,8,Hell's Kitchen,59,"4,5",4.50,9.00,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Lg
+697,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:54:01,Dawn,11,54,2,Small Order,5,Lower Manhattan,43,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+698,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:54:30,Dawn,11,54,1,Single,3,Astoria,26,3,3.00,3.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+699,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:55:31,Dawn,11,55,1,Single,3,Astoria,53,3,3.00,3.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+700,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:56:26,Dawn,11,56,1,Single,8,Hell's Kitchen,28,2,2.00,2.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+701,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:56:58,Dawn,11,56,1,Single,8,Hell's Kitchen,37,3,3.00,3.00,Low,Coffee,Barista Espresso,Drinks/Food,Espresso shot
+702,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:56:58,Dawn,11,56,1,Single,8,Hell's Kitchen,78,"4,5",4.50,4.50,Low,Bakery,Scone,Drinks/Food,Scottish Cream Scone 
+703,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:58:49,Dawn,11,58,2,Small Order,8,Hell's Kitchen,35,"3,1",3.10,6.20,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+704,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,11:58:49,Dawn,11,58,1,Single,8,Hell's Kitchen,71,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Chocolate Croissant
+705,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:01:50,Forenoon,12,1,1,Single,3,Astoria,53,3,3.00,3.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+706,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:03:47,Forenoon,12,3,1,Single,3,Astoria,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+707,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:06:18,Forenoon,12,6,1,Single,3,Astoria,32,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+708,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:12:01,Forenoon,12,12,2,Small Order,3,Astoria,24,3,3.00,6.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+709,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:12:44,Forenoon,12,12,1,Single,3,Astoria,42,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+710,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:14:00,Forenoon,12,14,1,Single,8,Hell's Kitchen,54,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+711,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:18:13,Forenoon,12,18,1,Single,3,Astoria,55,4,4.00,4.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+712,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:18:22,Forenoon,12,18,2,Small Order,3,Astoria,25,"2,2",2.20,4.40,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+713,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:18:22,Forenoon,12,18,1,Single,3,Astoria,79,"3,75",3.75,3.75,Low,Bakery,Scone,Drinks/Food,Jumbo Savory Scone
+714,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:20:43,Forenoon,12,20,1,Single,5,Lower Manhattan,47,3,3.00,3.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+715,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:20:43,Forenoon,12,20,1,Single,5,Lower Manhattan,71,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Chocolate Croissant
+716,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:21:38,Forenoon,12,21,1,Single,8,Hell's Kitchen,48,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+717,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:21:39,Forenoon,12,21,1,Single,3,Astoria,49,3,3.00,3.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+718,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:21:58,Forenoon,12,21,2,Small Order,3,Astoria,53,3,3.00,6.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+719,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:22:04,Forenoon,12,22,1,Single,3,Astoria,22,2,2.00,2.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+720,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:22:12,Forenoon,12,22,1,Single,5,Lower Manhattan,55,4,4.00,4.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+721,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:22:12,Forenoon,12,22,1,Single,5,Lower Manhattan,79,"3,75",3.75,3.75,Low,Bakery,Scone,Drinks/Food,Jumbo Savory Scone
+722,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:23:03,Forenoon,12,23,1,Single,5,Lower Manhattan,22,2,2.00,2.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+723,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:23:30,Forenoon,12,23,1,Single,3,Astoria,43,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+724,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:23:30,Forenoon,12,23,1,Single,3,Astoria,78,"4,5",4.50,4.50,Low,Bakery,Scone,Drinks/Food,Scottish Cream Scone 
+725,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:24:39,Forenoon,12,24,2,Small Order,5,Lower Manhattan,33,"3,5",3.50,7.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Lg
+726,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:24:39,Forenoon,12,24,1,Single,5,Lower Manhattan,69,"3,25",3.25,3.25,Low,Bakery,Biscotti,Drinks/Food,Hazelnut Biscotti
+727,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:25:03,Forenoon,12,25,1,Single,3,Astoria,24,3,3.00,3.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+728,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:25:24,Forenoon,12,25,2,Small Order,5,Lower Manhattan,56,"2,55",2.55,5.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+729,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:26:13,Forenoon,12,26,2,Small Order,5,Lower Manhattan,25,"2,2",2.20,4.40,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+730,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:26:13,Forenoon,12,26,1,Single,5,Lower Manhattan,78,"4,5",4.50,4.50,Low,Bakery,Scone,Drinks/Food,Scottish Cream Scone 
+731,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:26:18,Forenoon,12,26,1,Single,8,Hell's Kitchen,28,2,2.00,2.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+732,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:27:01,Forenoon,12,27,1,Single,8,Hell's Kitchen,60,"3,75",3.75,3.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+733,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:28:08,Forenoon,12,28,2,Small Order,3,Astoria,51,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Lg
+734,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:28:25,Forenoon,12,28,1,Single,3,Astoria,60,"3,75",3.75,3.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+735,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:29:07,Forenoon,12,29,1,Single,3,Astoria,24,3,3.00,3.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+736,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:30:43,Forenoon,12,30,2,Small Order,3,Astoria,50,"2,5",2.50,5.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+737,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:32:19,Forenoon,12,32,1,Single,8,Hell's Kitchen,57,"3,1",3.10,3.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Lg
+738,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:33:04,Forenoon,12,33,2,Small Order,3,Astoria,32,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+739,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:34:00,Forenoon,12,34,1,Single,3,Astoria,24,3,3.00,3.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+740,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:36:06,Forenoon,12,36,1,Single,8,Hell's Kitchen,43,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+741,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:36:37,Forenoon,12,36,1,Single,5,Lower Manhattan,25,"2,2",2.20,2.20,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+742,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:38:47,Forenoon,12,38,2,Small Order,8,Hell's Kitchen,87,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Ouro Brasileiro shot
+743,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:38:51,Forenoon,12,38,1,Single,3,Astoria,56,"2,55",2.55,2.55,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+744,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:39:04,Forenoon,12,39,2,Small Order,5,Lower Manhattan,87,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Ouro Brasileiro shot
+745,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:41:28,Forenoon,12,41,1,Single,8,Hell's Kitchen,87,3,3.00,3.00,Low,Coffee,Barista Espresso,Drinks/Food,Ouro Brasileiro shot
+746,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:42:19,Forenoon,12,42,1,Single,5,Lower Manhattan,52,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+747,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:42:47,Forenoon,12,42,1,Single,8,Hell's Kitchen,60,"3,75",3.75,3.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+748,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:45:02,Forenoon,12,45,1,Single,5,Lower Manhattan,26,3,3.00,3.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+749,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:46:04,Forenoon,12,46,2,Small Order,3,Astoria,46,"2,5",2.50,5.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+750,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:47:49,Forenoon,12,47,2,Small Order,3,Astoria,46,"2,5",2.50,5.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+751,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:53:16,Forenoon,12,53,2,Small Order,8,Hell's Kitchen,22,2,2.00,4.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+752,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:54:07,Forenoon,12,54,1,Single,5,Lower Manhattan,58,"3,5",3.50,3.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Rg
+753,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:54:07,Forenoon,12,54,1,Single,5,Lower Manhattan,77,3,3.00,3.00,Low,Bakery,Scone,Drinks/Food,Oatmeal Scone
+754,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:54:53,Forenoon,12,54,2,Small Order,5,Lower Manhattan,52,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+755,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:55:19,Forenoon,12,55,1,Single,3,Astoria,52,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+756,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:57:55,Forenoon,12,57,2,Small Order,8,Hell's Kitchen,30,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+757,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:58:04,Forenoon,12,58,2,Small Order,3,Astoria,53,3,3.00,6.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+758,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:58:38,Forenoon,12,58,2,Small Order,8,Hell's Kitchen,26,3,3.00,6.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+759,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:58:57,Forenoon,12,58,1,Single,8,Hell's Kitchen,35,"3,1",3.10,3.10,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Rg
+760,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:59:28,Forenoon,12,59,1,Single,8,Hell's Kitchen,47,3,3.00,3.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+761,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,12:59:45,Forenoon,12,59,2,Small Order,3,Astoria,24,3,3.00,6.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+762,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:02:03,Forenoon,13,2,2,Small Order,3,Astoria,27,"3,5",3.50,7.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+763,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:03:14,Forenoon,13,3,2,Small Order,8,Hell's Kitchen,40,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+764,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:03:14,Forenoon,13,3,1,Single,8,Hell's Kitchen,76,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Chocolate Chip Biscotti
+765,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:03:33,Forenoon,13,3,2,Small Order,5,Lower Manhattan,22,2,2.00,4.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+766,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:03:53,Forenoon,13,3,2,Small Order,3,Astoria,28,2,2.00,4.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+767,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:04:02,Forenoon,13,4,1,Single,8,Hell's Kitchen,49,3,3.00,3.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+768,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:04:56,Forenoon,13,4,2,Small Order,3,Astoria,27,"3,5",3.50,7.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+769,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:05:41,Forenoon,13,5,1,Single,3,Astoria,61,"4,75",4.75,4.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+770,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:09:27,Forenoon,13,9,1,Single,5,Lower Manhattan,51,3,3.00,3.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Lg
+771,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:09:27,Forenoon,13,9,1,Single,5,Lower Manhattan,70,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Cranberry Scone
+772,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:10:17,Forenoon,13,10,1,Single,8,Hell's Kitchen,33,"3,5",3.50,3.50,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Lg
+773,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:10:17,Forenoon,13,10,1,Single,8,Hell's Kitchen,78,"4,5",4.50,4.50,Low,Bakery,Scone,Drinks/Food,Scottish Cream Scone 
+774,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:10:41,Forenoon,13,10,2,Small Order,8,Hell's Kitchen,43,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+775,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:14:54,Forenoon,13,14,2,Small Order,5,Lower Manhattan,31,"2,2",2.20,4.40,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+776,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:15:40,Forenoon,13,15,1,Single,5,Lower Manhattan,24,3,3.00,3.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+777,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:21:09,Forenoon,13,21,2,Small Order,3,Astoria,46,"2,5",2.50,5.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+778,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:21:23,Forenoon,13,21,2,Small Order,8,Hell's Kitchen,50,"2,5",2.50,5.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+779,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:23:18,Forenoon,13,23,2,Small Order,3,Astoria,39,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+780,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:23:38,Forenoon,13,23,1,Single,3,Astoria,44,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+781,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:24:33,Forenoon,13,24,2,Small Order,3,Astoria,31,"2,2",2.20,4.40,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+782,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:25:02,Forenoon,13,25,1,Single,8,Hell's Kitchen,57,"3,1",3.10,3.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Lg
+783,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:26:47,Forenoon,13,26,1,Single,3,Astoria,47,3,3.00,3.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+784,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:28:24,Forenoon,13,28,2,Small Order,8,Hell's Kitchen,44,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+785,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:29:51,Forenoon,13,29,1,Single,3,Astoria,38,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+786,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:29:59,Forenoon,13,29,1,Single,3,Astoria,56,"2,55",2.55,2.55,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+787,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:30:00,Forenoon,13,30,2,Small Order,3,Astoria,27,"3,5",3.50,7.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+788,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:30:00,Forenoon,13,30,1,Single,3,Astoria,76,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Chocolate Chip Biscotti
+789,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:30:05,Forenoon,13,30,1,Single,8,Hell's Kitchen,50,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+790,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:30:15,Forenoon,13,30,1,Single,3,Astoria,30,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+791,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:30:30,Forenoon,13,30,2,Small Order,3,Astoria,39,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+792,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:30:30,Forenoon,13,30,1,Single,8,Hell's Kitchen,31,"2,2",2.20,2.20,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+793,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:34:02,Forenoon,13,34,1,Single,8,Hell's Kitchen,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+794,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:35:24,Forenoon,13,35,2,Small Order,5,Lower Manhattan,32,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+795,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:35:24,Forenoon,13,35,2,Small Order,8,Hell's Kitchen,30,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+796,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:39:11,Forenoon,13,39,2,Small Order,3,Astoria,23,"2,5",2.50,5.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+797,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:40:11,Forenoon,13,40,1,Single,3,Astoria,39,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+798,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:40:36,Forenoon,13,40,2,Small Order,8,Hell's Kitchen,47,3,3.00,6.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+799,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:40:53,Forenoon,13,40,1,Single,5,Lower Manhattan,48,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+800,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:40:53,Forenoon,13,40,1,Single,5,Lower Manhattan,79,"3,75",3.75,3.75,Low,Bakery,Scone,Drinks/Food,Jumbo Savory Scone
+801,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:42:07,Forenoon,13,42,1,Single,8,Hell's Kitchen,36,"3,75",3.75,3.75,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+802,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:47:24,Forenoon,13,47,1,Single,3,Astoria,28,2,2.00,2.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+803,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:47:27,Forenoon,13,47,2,Small Order,8,Hell's Kitchen,59,"4,5",4.50,9.00,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Lg
+804,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:48:27,Forenoon,13,48,2,Small Order,8,Hell's Kitchen,26,3,3.00,6.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+805,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:48:27,Forenoon,13,48,1,Single,8,Hell's Kitchen,73,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Almond Croissant
+806,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:51:33,Forenoon,13,51,1,Single,3,Astoria,60,"3,75",3.75,3.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+807,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:51:33,Forenoon,13,51,1,Single,3,Astoria,70,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Cranberry Scone
+808,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:52:27,Forenoon,13,52,2,Small Order,3,Astoria,54,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+809,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:53:04,Forenoon,13,53,1,Single,8,Hell's Kitchen,26,3,3.00,3.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+810,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:53:04,Forenoon,13,53,1,Single,8,Hell's Kitchen,79,"3,75",3.75,3.75,Low,Bakery,Scone,Drinks/Food,Jumbo Savory Scone
+811,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:55:38,Forenoon,13,55,1,Single,8,Hell's Kitchen,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+812,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:55:38,Forenoon,13,55,1,Single,8,Hell's Kitchen,71,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Chocolate Croissant
+813,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:56:19,Forenoon,13,56,1,Single,5,Lower Manhattan,39,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+814,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:57:59,Forenoon,13,57,2,Small Order,8,Hell's Kitchen,38,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+815,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:58:30,Forenoon,13,58,2,Small Order,3,Astoria,36,"3,75",3.75,7.50,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+816,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,13:58:36,Forenoon,13,58,1,Single,3,Astoria,39,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+817,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:01:23,Forenoon,14,1,1,Single,8,Hell's Kitchen,46,"2,5",2.50,2.50,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+818,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:02:16,Forenoon,14,2,2,Small Order,8,Hell's Kitchen,25,"2,2",2.20,4.40,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+819,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:02:44,Forenoon,14,2,2,Small Order,3,Astoria,22,2,2.00,4.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+820,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:03:27,Forenoon,14,3,1,Single,3,Astoria,59,"4,5",4.50,4.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Lg
+821,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:05:27,Forenoon,14,5,1,Single,5,Lower Manhattan,56,"2,55",2.55,2.55,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+822,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:05:27,Forenoon,14,5,1,Single,5,Lower Manhattan,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+823,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:07:17,Forenoon,14,7,1,Single,3,Astoria,37,3,3.00,3.00,Low,Coffee,Barista Espresso,Drinks/Food,Espresso shot
+824,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:07:49,Forenoon,14,7,2,Small Order,5,Lower Manhattan,60,"3,75",3.75,7.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+825,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:08:49,Forenoon,14,8,1,Single,3,Astoria,40,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+826,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:11:08,Forenoon,14,11,1,Single,5,Lower Manhattan,28,2,2.00,2.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+827,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:12:00,Forenoon,14,12,1,Single,8,Hell's Kitchen,46,"2,5",2.50,2.50,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+828,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:12:07,Forenoon,14,12,2,Small Order,5,Lower Manhattan,51,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Lg
+829,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:12:35,Forenoon,14,12,2,Small Order,3,Astoria,54,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+830,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:12:35,Forenoon,14,12,1,Single,3,Astoria,72,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Ginger Scone
+831,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:13:26,Forenoon,14,13,1,Single,8,Hell's Kitchen,55,4,4.00,4.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+832,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:13:37,Forenoon,14,13,2,Small Order,5,Lower Manhattan,25,"2,2",2.20,4.40,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+833,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:14:26,Forenoon,14,14,2,Small Order,3,Astoria,58,"3,5",3.50,7.00,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Rg
+834,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:17:08,Forenoon,14,17,1,Single,3,Astoria,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+835,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:17:55,Forenoon,14,17,2,Small Order,3,Astoria,61,"4,75",4.75,9.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Lg
+836,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:17:55,Forenoon,14,17,1,Single,3,Astoria,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+837,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:19:24,Forenoon,14,19,1,Single,3,Astoria,49,3,3.00,3.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+838,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:21:55,Forenoon,14,21,2,Small Order,8,Hell's Kitchen,41,"4,25",4.25,8.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+839,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:24:46,Forenoon,14,24,1,Single,3,Astoria,30,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+840,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:25:35,Forenoon,14,25,1,Single,8,Hell's Kitchen,31,"2,2",2.20,2.20,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+841,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:26:33,Forenoon,14,26,1,Single,8,Hell's Kitchen,36,"3,75",3.75,3.75,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+842,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:29:35,Forenoon,14,29,2,Small Order,3,Astoria,43,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+843,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:29:35,Forenoon,14,29,1,Single,3,Astoria,71,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Chocolate Croissant
+844,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:33:26,Forenoon,14,33,1,Single,3,Astoria,22,2,2.00,2.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+845,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:33:58,Forenoon,14,33,2,Small Order,5,Lower Manhattan,37,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Espresso shot
+846,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:34:53,Forenoon,14,34,1,Single,3,Astoria,48,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+847,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:36:56,Forenoon,14,36,2,Small Order,5,Lower Manhattan,87,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Ouro Brasileiro shot
+848,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:37:44,Forenoon,14,37,2,Small Order,8,Hell's Kitchen,52,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+849,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:39:18,Forenoon,14,39,1,Single,8,Hell's Kitchen,24,3,3.00,3.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+850,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:40:25,Forenoon,14,40,2,Small Order,3,Astoria,40,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+851,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:42:21,Forenoon,14,42,1,Single,3,Astoria,47,3,3.00,3.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+852,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:42:21,Forenoon,14,42,1,Single,3,Astoria,72,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Ginger Scone
+853,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:44:28,Forenoon,14,44,2,Small Order,5,Lower Manhattan,52,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+854,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:46:31,Forenoon,14,46,2,Small Order,8,Hell's Kitchen,23,"2,5",2.50,5.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+855,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:48:02,Forenoon,14,48,2,Small Order,5,Lower Manhattan,27,"3,5",3.50,7.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+856,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:48:05,Forenoon,14,48,1,Single,5,Lower Manhattan,41,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+857,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:48:53,Forenoon,14,48,1,Single,8,Hell's Kitchen,32,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+858,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:51:11,Forenoon,14,51,1,Single,3,Astoria,36,"3,75",3.75,3.75,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+859,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:52:26,Forenoon,14,52,1,Single,5,Lower Manhattan,46,"2,5",2.50,2.50,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+860,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:52:26,Forenoon,14,52,1,Single,5,Lower Manhattan,76,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Chocolate Chip Biscotti
+861,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:54:33,Forenoon,14,54,2,Small Order,3,Astoria,37,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Espresso shot
+862,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:54:40,Forenoon,14,54,1,Single,5,Lower Manhattan,87,3,3.00,3.00,Low,Coffee,Barista Espresso,Drinks/Food,Ouro Brasileiro shot
+863,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:54:46,Forenoon,14,54,2,Small Order,5,Lower Manhattan,52,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+864,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:55:38,Forenoon,14,55,2,Small Order,8,Hell's Kitchen,36,"3,75",3.75,7.50,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+865,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:58:21,Forenoon,14,58,2,Small Order,8,Hell's Kitchen,87,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Ouro Brasileiro shot
+866,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:58:28,Forenoon,14,58,2,Small Order,8,Hell's Kitchen,46,"2,5",2.50,5.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+867,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,14:59:08,Forenoon,14,59,1,Single,8,Hell's Kitchen,30,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+868,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:03:12,Midday,15,3,2,Small Order,3,Astoria,26,3,3.00,6.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+869,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:03:12,Midday,15,3,1,Single,3,Astoria,73,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Almond Croissant
+870,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:04:21,Midday,15,4,2,Small Order,3,Astoria,23,"2,5",2.50,5.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+871,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:05:22,Midday,15,5,1,Single,3,Astoria,27,"3,5",3.50,3.50,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+872,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:05:22,Midday,15,5,1,Single,3,Astoria,79,"3,75",3.75,3.75,Low,Bakery,Scone,Drinks/Food,Jumbo Savory Scone
+873,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:09:48,Midday,15,9,2,Small Order,5,Lower Manhattan,31,"2,2",2.20,4.40,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+874,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:10:48,Midday,15,10,1,Single,8,Hell's Kitchen,44,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+875,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:12:44,Midday,15,12,1,Single,3,Astoria,52,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+876,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:15:03,Midday,15,15,1,Single,3,Astoria,40,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+877,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:15:03,Midday,15,15,1,Single,3,Astoria,77,3,3.00,3.00,Low,Bakery,Scone,Drinks/Food,Oatmeal Scone
+878,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:18:41,Midday,15,18,1,Single,5,Lower Manhattan,59,"4,5",4.50,4.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Lg
+879,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:19:46,Midday,15,19,1,Single,3,Astoria,53,3,3.00,3.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+880,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:21:45,Midday,15,21,2,Small Order,3,Astoria,47,3,3.00,6.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+881,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:22:19,Midday,15,22,2,Small Order,8,Hell's Kitchen,28,2,2.00,4.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+882,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:23:29,Midday,15,23,2,Small Order,8,Hell's Kitchen,45,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Lg
+883,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:24:16,Midday,15,24,1,Single,3,Astoria,60,"3,75",3.75,3.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+884,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:24:52,Midday,15,24,2,Small Order,5,Lower Manhattan,48,"2,5",2.50,5.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+885,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:26:08,Midday,15,26,1,Single,3,Astoria,50,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+886,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:26:22,Midday,15,26,2,Small Order,5,Lower Manhattan,42,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+887,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:26:22,Midday,15,26,1,Single,5,Lower Manhattan,69,"3,25",3.25,3.25,Low,Bakery,Biscotti,Drinks/Food,Hazelnut Biscotti
+888,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:27:43,Midday,15,27,1,Single,3,Astoria,58,"3,5",3.50,3.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Rg
+889,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:27:48,Midday,15,27,1,Single,3,Astoria,41,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+890,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:28:35,Midday,15,28,2,Small Order,5,Lower Manhattan,87,3,3.00,6.00,Low,Coffee,Barista Espresso,Drinks/Food,Ouro Brasileiro shot
+891,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:29:31,Midday,15,29,2,Small Order,5,Lower Manhattan,44,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+892,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:30:51,Midday,15,30,1,Single,8,Hell's Kitchen,40,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+893,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:32:44,Midday,15,32,2,Small Order,8,Hell's Kitchen,45,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Lg
+894,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:34:44,Midday,15,34,2,Small Order,5,Lower Manhattan,34,"2,45",2.45,4.90,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+895,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:35:22,Midday,15,35,1,Single,8,Hell's Kitchen,53,3,3.00,3.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+896,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:35:22,Midday,15,35,1,Single,8,Hell's Kitchen,69,"3,25",3.25,3.25,Low,Bakery,Biscotti,Drinks/Food,Hazelnut Biscotti
+897,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:35:30,Midday,15,35,2,Small Order,5,Lower Manhattan,60,"3,75",3.75,7.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+898,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:35:30,Midday,15,35,1,Single,5,Lower Manhattan,70,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Cranberry Scone
+899,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:36:29,Midday,15,36,2,Small Order,8,Hell's Kitchen,46,"2,5",2.50,5.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+900,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:36:47,Midday,15,36,2,Small Order,3,Astoria,23,"2,5",2.50,5.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+901,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:37:20,Midday,15,37,2,Small Order,8,Hell's Kitchen,33,"3,5",3.50,7.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Lg
+902,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:37:20,Midday,15,37,1,Single,8,Hell's Kitchen,69,"3,25",3.25,3.25,Low,Bakery,Biscotti,Drinks/Food,Hazelnut Biscotti
+903,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:38:44,Midday,15,38,2,Small Order,5,Lower Manhattan,47,3,3.00,6.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+904,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:41:09,Midday,15,41,1,Single,8,Hell's Kitchen,52,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+905,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:41:09,Midday,15,41,1,Single,8,Hell's Kitchen,69,"3,25",3.25,3.25,Low,Bakery,Biscotti,Drinks/Food,Hazelnut Biscotti
+906,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:41:55,Midday,15,41,2,Small Order,5,Lower Manhattan,47,3,3.00,6.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+907,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:41:55,Midday,15,41,1,Single,5,Lower Manhattan,74,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Ginger Biscotti
+908,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:42:50,Midday,15,42,1,Single,8,Hell's Kitchen,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+909,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:44:59,Midday,15,44,2,Small Order,3,Astoria,44,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+910,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:48:55,Midday,15,48,1,Single,5,Lower Manhattan,46,"2,5",2.50,2.50,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+911,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:48:55,Midday,15,48,1,Single,5,Lower Manhattan,73,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Almond Croissant
+912,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:49:27,Midday,15,49,1,Single,5,Lower Manhattan,42,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+913,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:49:27,Midday,15,49,1,Single,5,Lower Manhattan,78,"4,5",4.50,4.50,Low,Bakery,Scone,Drinks/Food,Scottish Cream Scone 
+914,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:50:12,Midday,15,50,2,Small Order,3,Astoria,54,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+915,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:50:12,Midday,15,50,1,Single,3,Astoria,79,"3,75",3.75,3.75,Low,Bakery,Scone,Drinks/Food,Jumbo Savory Scone
+916,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:50:27,Midday,15,50,2,Small Order,5,Lower Manhattan,47,3,3.00,6.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+917,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:50:28,Midday,15,50,2,Small Order,8,Hell's Kitchen,46,"2,5",2.50,5.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Rg
+918,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:51:29,Midday,15,51,1,Single,5,Lower Manhattan,34,"2,45",2.45,2.45,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+919,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:51:57,Midday,15,51,2,Small Order,5,Lower Manhattan,38,"3,75",3.75,7.50,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+920,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:52:14,Midday,15,52,2,Small Order,5,Lower Manhattan,34,"2,45",2.45,4.90,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+921,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:52:58,Midday,15,52,1,Single,8,Hell's Kitchen,56,"2,55",2.55,2.55,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+922,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:54:43,Midday,15,54,2,Small Order,8,Hell's Kitchen,28,2,2.00,4.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Sm
+923,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:55:19,Midday,15,55,1,Single,5,Lower Manhattan,55,4,4.00,4.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+924,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:55:19,Midday,15,55,1,Single,5,Lower Manhattan,79,"3,75",3.75,3.75,Low,Bakery,Scone,Drinks/Food,Jumbo Savory Scone
+925,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:55:27,Midday,15,55,2,Small Order,5,Lower Manhattan,56,"2,55",2.55,5.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Rg
+926,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:56:41,Midday,15,56,1,Single,8,Hell's Kitchen,48,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+927,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:58:07,Midday,15,58,2,Small Order,5,Lower Manhattan,29,"2,5",2.50,5.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Rg
+928,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:59:37,Midday,15,59,1,Single,3,Astoria,58,"3,5",3.50,3.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Dark chocolate Rg
+929,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,15:59:53,Midday,15,59,2,Small Order,3,Astoria,43,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+930,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:00:33,Midday,16,0,2,Small Order,3,Astoria,51,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Lg
+931,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:00:33,Midday,16,0,1,Single,3,Astoria,78,"4,5",4.50,4.50,Low,Bakery,Scone,Drinks/Food,Scottish Cream Scone 
+932,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:02:09,Midday,16,2,1,Single,5,Lower Manhattan,40,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+933,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:02:21,Midday,16,2,1,Single,5,Lower Manhattan,44,"2,5",2.50,2.50,Low,Tea,Brewed herbal tea,Tea,Peppermint Rg
+934,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:05:18,Midday,16,5,1,Single,5,Lower Manhattan,52,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+935,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:06:01,Midday,16,6,2,Small Order,5,Lower Manhattan,34,"2,45",2.45,4.90,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+936,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:06:18,Midday,16,6,1,Single,3,Astoria,39,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+937,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:08:22,Midday,16,8,1,Single,5,Lower Manhattan,54,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+938,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:09:17,Midday,16,9,1,Single,3,Astoria,39,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Latte Rg
+939,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:09:45,Midday,16,9,2,Small Order,3,Astoria,45,3,3.00,6.00,Low,Tea,Brewed herbal tea,Tea,Peppermint Lg
+940,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:11:04,Midday,16,11,1,Single,3,Astoria,40,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino
+941,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:11:57,Midday,16,11,2,Small Order,8,Hell's Kitchen,26,3,3.00,6.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+942,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:12:01,Midday,16,12,2,Small Order,8,Hell's Kitchen,47,3,3.00,6.00,Low,Tea,Brewed Green tea,Tea,Serenity Green Tea Lg
+943,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:14:09,Midday,16,14,1,Single,5,Lower Manhattan,30,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Lg
+944,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:14:09,Midday,16,14,1,Single,5,Lower Manhattan,78,"4,5",4.50,4.50,Low,Bakery,Scone,Drinks/Food,Scottish Cream Scone 
+945,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:18:15,Midday,16,18,2,Small Order,3,Astoria,53,3,3.00,6.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+946,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:19:33,Midday,16,19,1,Single,3,Astoria,38,"3,75",3.75,3.75,Low,Coffee,Barista Espresso,Drinks/Food,Latte
+947,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:19:48,Midday,16,19,2,Small Order,5,Lower Manhattan,60,"3,75",3.75,7.50,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+948,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:19:48,Midday,16,19,1,Single,5,Lower Manhattan,78,"4,5",4.50,4.50,Low,Bakery,Scone,Drinks/Food,Scottish Cream Scone 
+949,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:22:25,Midday,16,22,1,Single,3,Astoria,48,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+950,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:22:30,Midday,16,22,2,Small Order,3,Astoria,27,"3,5",3.50,7.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+951,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:23:50,Midday,16,23,1,Single,5,Lower Manhattan,26,3,3.00,3.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Rg
+952,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:26:14,Midday,16,26,1,Single,3,Astoria,55,4,4.00,4.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+953,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:26:38,Midday,16,26,1,Single,3,Astoria,25,"2,2",2.20,2.20,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+954,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:26:38,Midday,16,26,1,Single,3,Astoria,73,"3,75",3.75,3.75,Low,Bakery,Pastry,Drinks/Food,Almond Croissant
+955,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:26:49,Midday,16,26,1,Single,8,Hell's Kitchen,54,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+956,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:28:26,Midday,16,28,1,Single,8,Hell's Kitchen,36,"3,75",3.75,3.75,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+957,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:30:05,Midday,16,30,1,Single,5,Lower Manhattan,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+958,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:30:07,Midday,16,30,1,Single,3,Astoria,24,3,3.00,3.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+959,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:30:07,Midday,16,30,1,Single,3,Astoria,74,"3,5",3.50,3.50,Low,Bakery,Biscotti,Drinks/Food,Ginger Biscotti
+960,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:30:37,Midday,16,30,2,Small Order,8,Hell's Kitchen,53,3,3.00,6.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+961,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:31:20,Midday,16,31,2,Small Order,3,Astoria,36,"3,75",3.75,7.50,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Lg
+962,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:31:48,Midday,16,31,1,Single,8,Hell's Kitchen,52,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+963,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:32:14,Midday,16,32,2,Small Order,3,Astoria,52,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Rg
+964,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:32:25,Midday,16,32,2,Small Order,5,Lower Manhattan,50,"2,5",2.50,5.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+965,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:33:17,Midday,16,33,1,Single,5,Lower Manhattan,57,"3,1",3.10,3.10,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Lg
+966,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:33:17,Midday,16,33,1,Single,5,Lower Manhattan,75,"3,5",3.50,3.50,Low,Bakery,Pastry,Drinks/Food,Croissant
+967,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:34:50,Midday,16,34,1,Single,5,Lower Manhattan,50,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+968,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:35:22,Midday,16,35,1,Single,3,Astoria,31,"2,2",2.20,2.20,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Sm
+969,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:35:22,Midday,16,35,2,Small Order,3,Astoria,54,"2,5",2.50,5.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
+970,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:35:54,Midday,16,35,2,Small Order,8,Hell's Kitchen,49,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+971,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:36:38,Midday,16,36,1,Single,3,Astoria,32,3,3.00,3.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+972,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:41:26,Midday,16,41,2,Small Order,5,Lower Manhattan,22,2,2.00,4.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Sm
+973,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:42:11,Midday,16,42,2,Small Order,3,Astoria,51,3,3.00,6.00,Low,Tea,Brewed Black tea,Tea,Earl Grey Lg
+974,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:42:33,Midday,16,42,1,Single,5,Lower Manhattan,34,"2,45",2.45,2.45,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+975,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:42:33,Midday,16,42,1,Single,5,Lower Manhattan,77,3,3.00,3.00,Low,Bakery,Scone,Drinks/Food,Oatmeal Scone
+976,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:43:04,Midday,16,43,2,Small Order,3,Astoria,34,"2,45",2.45,4.90,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+977,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:44:55,Midday,16,44,2,Small Order,5,Lower Manhattan,32,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+978,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:47:01,Midday,16,47,1,Single,3,Astoria,48,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,English Breakfast Rg
+979,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:49:41,Midday,16,49,1,Single,3,Astoria,49,3,3.00,3.00,Low,Tea,Brewed Black tea,Tea,English Breakfast Lg
+980,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:50:14,Midday,16,50,1,Single,8,Hell's Kitchen,25,"2,2",2.20,2.20,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+981,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:51:09,Midday,16,51,2,Small Order,3,Astoria,34,"2,45",2.45,4.90,Low,Coffee,Premium brewed coffee,Coffee,Jamaican Coffee River Sm
+982,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:51:09,Midday,16,51,1,Single,3,Astoria,72,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Ginger Scone
+983,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:55:58,Midday,16,55,2,Small Order,3,Astoria,24,3,3.00,6.00,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Lg
+984,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:56:14,Midday,16,56,1,Single,8,Hell's Kitchen,41,"4,25",4.25,4.25,Low,Coffee,Barista Espresso,Drinks/Food,Cappuccino Lg
+985,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,16:59:09,Midday,16,59,1,Single,5,Lower Manhattan,23,"2,5",2.50,2.50,Low,Coffee,Drip coffee,Coffee,Our Old Time Diner Blend Rg
+986,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,17:00:52,Midday,17,0,1,Single,8,Hell's Kitchen,25,"2,2",2.20,2.20,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Sm
+987,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,17:02:06,Midday,17,2,1,Single,8,Hell's Kitchen,50,"2,5",2.50,2.50,Low,Tea,Brewed Black tea,Tea,Earl Grey Rg
+988,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,17:02:59,Midday,17,2,2,Small Order,5,Lower Manhattan,29,"2,5",2.50,5.00,Low,Coffee,Gourmet brewed coffee,Coffee,Columbian Medium Roast Rg
+989,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,17:02:59,Midday,17,2,1,Single,5,Lower Manhattan,77,3,3.00,3.00,Low,Bakery,Scone,Drinks/Food,Oatmeal Scone
+990,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,17:04:56,Midday,17,4,1,Single,3,Astoria,60,"3,75",3.75,3.75,Low,Drinking Chocolate,Hot chocolate,Drinks/Food,Sustainably Grown Organic Rg
+991,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,17:10:24,Midday,17,10,2,Small Order,8,Hell's Kitchen,55,4,4.00,8.00,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Lg
+992,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,17:10:36,Midday,17,10,1,Single,8,Hell's Kitchen,33,"3,5",3.50,3.50,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Lg
+993,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,17:12:45,Midday,17,12,2,Small Order,3,Astoria,42,"2,5",2.50,5.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Rg
+994,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,17:13:53,Midday,17,13,1,Single,8,Hell's Kitchen,43,3,3.00,3.00,Low,Tea,Brewed herbal tea,Tea,Lemon Grass Lg
+995,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,17:15:28,Midday,17,15,2,Small Order,5,Lower Manhattan,27,"3,5",3.50,7.00,Low,Coffee,Organic brewed coffee,Coffee,Brazilian Lg
+996,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,17:15:35,Midday,17,15,2,Small Order,5,Lower Manhattan,57,"3,1",3.10,6.20,Low,Tea,Brewed Chai tea,Tea,Spicy Eye Opener Chai Lg
+997,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,17:17:00,Midday,17,17,2,Small Order,3,Astoria,53,3,3.00,6.00,Low,Tea,Brewed Chai tea,Tea,Traditional Blend Chai Lg
+998,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,17:17:00,Midday,17,17,1,Single,3,Astoria,70,"3,25",3.25,3.25,Low,Bakery,Scone,Drinks/Food,Cranberry Scone
+999,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,17:18:25,Midday,17,18,2,Small Order,5,Lower Manhattan,32,3,3.00,6.00,Low,Coffee,Gourmet brewed coffee,Coffee,Ethiopia Rg
+1000,2023-01-02,2023,Q1,1,Jan 2023,1,2,Monday,Weekday,17:19:03,Midday,17,19,1,Single,8,Hell's Kitchen,54,"2,5",2.50,2.50,Low,Tea,Brewed Chai tea,Tea,Morning Sunrise Chai Rg
